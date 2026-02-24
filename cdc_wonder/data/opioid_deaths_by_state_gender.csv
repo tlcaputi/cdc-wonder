@@ -1,0 +1,2449 @@
+Year,Year Code,State,State Code,Sex,Sex Code,Deaths,Population,Crude Rate
+2000,2000,Alabama,01,Female,F,19,2300596,Unreliable
+2000,2000,Alabama,01,Male,M,24,2146504,1.1
+2000,2000,Alaska,02,Female,F,14,302820,Unreliable
+2000,2000,Alaska,02,Male,M,13,324112,Unreliable
+2000,2000,Arizona,04,Female,F,56,2569575,2.2
+2000,2000,Arizona,04,Male,M,179,2561057,7.0
+2000,2000,Arkansas,05,Female,F,Suppressed,1368707,Suppressed
+2000,2000,Arkansas,05,Male,M,14,1304693,Unreliable
+2000,2000,California,06,Female,F,243,16996756,1.4
+2000,2000,California,06,Male,M,769,16874892,4.6
+2000,2000,Colorado,08,Female,F,62,2135278,2.9
+2000,2000,Colorado,08,Male,M,112,2165983,5.2
+2000,2000,Connecticut,09,Female,F,21,1756246,1.2
+2000,2000,Connecticut,09,Male,M,144,1649319,8.7
+2000,2000,Delaware,10,Female,F,12,403059,Unreliable
+2000,2000,Delaware,10,Male,M,17,380541,Unreliable
+2000,2000,District of Columbia,11,Female,F,12,302693,Unreliable
+2000,2000,District of Columbia,11,Male,M,31,269366,11.5
+2000,2000,Florida,12,Female,F,160,8184663,2.0
+2000,2000,Florida,12,Male,M,396,7797715,5.1
+2000,2000,Georgia,13,Female,F,36,4159340,0.9
+2000,2000,Georgia,13,Male,M,79,4027113,2.0
+2000,2000,Hawaii,15,Female,F,10,602866,Unreliable
+2000,2000,Hawaii,15,Male,M,19,608671,Unreliable
+2000,2000,Idaho,16,Female,F,12,645293,Unreliable
+2000,2000,Idaho,16,Male,M,16,648660,Unreliable
+2000,2000,Illinois,17,Female,F,125,6338957,2.0
+2000,2000,Illinois,17,Male,M,433,6080336,7.1
+2000,2000,Indiana,18,Female,F,Suppressed,3098011,Suppressed
+2000,2000,Indiana,18,Male,M,35,2982474,1.2
+2000,2000,Iowa,19,Female,F,Suppressed,1490809,Suppressed
+2000,2000,Iowa,19,Male,M,12,1435515,Unreliable
+2000,2000,Kansas,20,Female,F,Suppressed,1359944,Suppressed
+2000,2000,Kansas,20,Male,M,17,1328474,Unreliable
+2000,2000,Kentucky,21,Female,F,25,2066401,1.2
+2000,2000,Kentucky,21,Male,M,67,1975368,3.4
+2000,2000,Louisiana,22,Female,F,15,2306073,Unreliable
+2000,2000,Louisiana,22,Male,M,37,2162903,1.7
+2000,2000,Maine,23,Female,F,Suppressed,654614,Suppressed
+2000,2000,Maine,23,Male,M,32,620309,5.2
+2000,2000,Maryland,24,Female,F,104,2738692,3.8
+2000,2000,Maryland,24,Male,M,377,2557794,14.7
+2000,2000,Massachusetts,25,Female,F,82,3290281,2.5
+2000,2000,Massachusetts,25,Male,M,232,3058816,7.6
+2000,2000,Michigan,26,Female,F,47,5065349,0.9
+2000,2000,Michigan,26,Male,M,133,4873095,2.7
+2000,2000,Minnesota,27,Female,F,17,2483848,Unreliable
+2000,2000,Minnesota,27,Male,M,40,2435631,1.6
+2000,2000,Mississippi,28,Female,F,Suppressed,1471104,Suppressed
+2000,2000,Mississippi,28,Male,M,Suppressed,1373554,Suppressed
+2000,2000,Missouri,29,Female,F,44,2875034,1.5
+2000,2000,Missouri,29,Male,M,87,2720177,3.2
+2000,2000,Montana,30,Female,F,Suppressed,452715,Suppressed
+2000,2000,Montana,30,Male,M,Suppressed,449480,Suppressed
+2000,2000,Nebraska,31,Female,F,Suppressed,867912,Suppressed
+2000,2000,Nebraska,31,Male,M,10,843351,Unreliable
+2000,2000,Nevada,32,Female,F,52,980206,5.3
+2000,2000,Nevada,32,Male,M,126,1018051,12.4
+2000,2000,New Hampshire,33,Female,F,Suppressed,628099,Suppressed
+2000,2000,New Hampshire,33,Male,M,23,607687,3.8
+2000,2000,New Jersey,34,Female,F,69,4331537,1.6
+2000,2000,New Jersey,34,Male,M,281,4082813,6.9
+2000,2000,New Mexico,35,Female,F,39,924729,4.2
+2000,2000,New Mexico,35,Male,M,141,894317,15.8
+2000,2000,New York,36,Female,F,119,9829709,1.2
+2000,2000,New York,36,Male,M,375,9146748,4.1
+2000,2000,North Carolina,37,Female,F,103,4106618,2.5
+2000,2000,North Carolina,37,Male,M,183,3942695,4.6
+2000,2000,North Dakota,38,Female,F,Suppressed,321676,Suppressed
+2000,2000,North Dakota,38,Male,M,Suppressed,320524,Suppressed
+2000,2000,Ohio,39,Female,F,68,5840878,1.2
+2000,2000,Ohio,39,Male,M,182,5512262,3.3
+2000,2000,Oklahoma,40,Female,F,47,1754759,2.7
+2000,2000,Oklahoma,40,Male,M,80,1695895,4.7
+2000,2000,Oregon,41,Female,F,35,1724849,2.0
+2000,2000,Oregon,41,Male,M,71,1696550,4.2
+2000,2000,Pennsylvania,42,Female,F,69,6351391,1.1
+2000,2000,Pennsylvania,42,Male,M,250,5929663,4.2
+2000,2000,Rhode Island,44,Female,F,17,544684,Unreliable
+2000,2000,Rhode Island,44,Male,M,40,503635,7.9
+2000,2000,South Carolina,45,Female,F,23,2063083,1.1
+2000,2000,South Carolina,45,Male,M,64,1948929,3.3
+2000,2000,South Dakota,46,Female,F,Suppressed,380286,Suppressed
+2000,2000,South Dakota,46,Male,M,Suppressed,374558,Suppressed
+2000,2000,Tennessee,47,Female,F,36,2919008,1.2
+2000,2000,Tennessee,47,Male,M,64,2770275,2.3
+2000,2000,Texas,48,Female,F,127,10498910,1.2
+2000,2000,Texas,48,Male,M,252,10352910,2.4
+2000,2000,Utah,49,Female,F,43,1114138,3.9
+2000,2000,Utah,49,Male,M,113,1119031,10.1
+2000,2000,Vermont,50,Female,F,Suppressed,310490,Suppressed
+2000,2000,Vermont,50,Male,M,19,298337,Unreliable
+2000,2000,Virginia,51,Female,F,66,3606620,1.8
+2000,2000,Virginia,51,Male,M,184,3471895,5.3
+2000,2000,Washington,53,Female,F,109,2959821,3.7
+2000,2000,Washington,53,Male,M,244,2934300,8.3
+2000,2000,West Virginia,54,Female,F,16,929174,Unreliable
+2000,2000,West Virginia,54,Male,M,34,879170,3.9
+2000,2000,Wisconsin,55,Female,F,43,2714634,1.6
+2000,2000,Wisconsin,55,Male,M,69,2649041,2.6
+2000,2000,Wyoming,56,Female,F,Suppressed,245408,Suppressed
+2000,2000,Wyoming,56,Male,M,Suppressed,248374,Suppressed
+2001,2001,Alabama,01,Female,F,21,2309496,0.9
+2001,2001,Alabama,01,Male,M,36,2158138,1.7
+2001,2001,Alaska,02,Female,F,Suppressed,305579,Suppressed
+2001,2001,Alaska,02,Male,M,Suppressed,328135,Suppressed
+2001,2001,Arizona,04,Female,F,72,2641676,2.7
+2001,2001,Arizona,04,Male,M,193,2631801,7.3
+2001,2001,Arkansas,05,Female,F,11,1376845,Unreliable
+2001,2001,Arkansas,05,Male,M,19,1314726,Unreliable
+2001,2001,California,06,Female,F,134,17294223,0.8
+2001,2001,California,06,Male,M,417,17185235,2.4
+2001,2001,Colorado,08,Female,F,57,2195705,2.6
+2001,2001,Colorado,08,Male,M,135,2229982,6.1
+2001,2001,Connecticut,09,Female,F,31,1768959,1.8
+2001,2001,Connecticut,09,Male,M,118,1663876,7.1
+2001,2001,Delaware,10,Female,F,13,409349,Unreliable
+2001,2001,Delaware,10,Male,M,23,386350,6.0
+2001,2001,District of Columbia,11,Female,F,11,303740,Unreliable
+2001,2001,District of Columbia,11,Male,M,35,270764,12.9
+2001,2001,Florida,12,Female,F,236,8372776,2.8
+2001,2001,Florida,12,Male,M,610,7984190,7.6
+2001,2001,Georgia,13,Female,F,61,4256162,1.4
+2001,2001,Georgia,13,Male,M,122,4120876,3.0
+2001,2001,Hawaii,15,Female,F,10,609189,Unreliable
+2001,2001,Hawaii,15,Male,M,28,616759,4.5
+2001,2001,Idaho,16,Female,F,23,658043,3.5
+2001,2001,Idaho,16,Male,M,28,661919,4.2
+2001,2001,Illinois,17,Female,F,118,6370443,1.9
+2001,2001,Illinois,17,Male,M,407,6118002,6.7
+2001,2001,Indiana,18,Female,F,20,3120158,0.6
+2001,2001,Indiana,18,Male,M,47,3007602,1.6
+2001,2001,Iowa,19,Female,F,13,1492287,Unreliable
+2001,2001,Iowa,19,Male,M,14,1439710,Unreliable
+2001,2001,Kansas,20,Female,F,21,1365966,1.5
+2001,2001,Kansas,20,Male,M,26,1336196,1.9
+2001,2001,Kentucky,21,Female,F,49,2076871,2.4
+2001,2001,Kentucky,21,Male,M,95,1991261,4.8
+2001,2001,Louisiana,22,Female,F,21,2308063,0.9
+2001,2001,Louisiana,22,Male,M,60,2169812,2.8
+2001,2001,Maine,23,Female,F,15,659657,Unreliable
+2001,2001,Maine,23,Male,M,40,626035,6.4
+2001,2001,Maryland,24,Female,F,104,2779864,3.7
+2001,2001,Maryland,24,Male,M,385,2594827,14.8
+2001,2001,Massachusetts,25,Female,F,129,3312567,3.9
+2001,2001,Massachusetts,25,Male,M,371,3085067,12.0
+2001,2001,Michigan,26,Female,F,61,5089289,1.2
+2001,2001,Michigan,26,Male,M,131,4901831,2.7
+2001,2001,Minnesota,27,Female,F,24,2514149,1.0
+2001,2001,Minnesota,27,Male,M,72,2468647,2.9
+2001,2001,Mississippi,28,Female,F,10,1473486,Unreliable
+2001,2001,Mississippi,28,Male,M,16,1379508,Unreliable
+2001,2001,Missouri,29,Female,F,51,2895476,1.8
+2001,2001,Missouri,29,Male,M,81,2745666,3.0
+2001,2001,Montana,30,Female,F,11,454683,Unreliable
+2001,2001,Montana,30,Male,M,Suppressed,452278,Suppressed
+2001,2001,Nebraska,31,Female,F,14,871208,Unreliable
+2001,2001,Nebraska,31,Male,M,18,848628,Unreliable
+2001,2001,Nevada,32,Female,F,71,1030850,6.9
+2001,2001,Nevada,32,Male,M,111,1067549,10.4
+2001,2001,New Hampshire,33,Female,F,22,637412,3.5
+2001,2001,New Hampshire,33,Male,M,31,618105,5.0
+2001,2001,New Jersey,34,Female,F,95,4369932,2.2
+2001,2001,New Jersey,34,Male,M,302,4122739,7.3
+2001,2001,New Mexico,35,Female,F,50,930387,5.4
+2001,2001,New Mexico,35,Male,M,101,901303,11.2
+2001,2001,New York,36,Female,F,111,9878713,1.1
+2001,2001,New York,36,Male,M,500,9204125,5.4
+2001,2001,North Carolina,37,Female,F,133,4187317,3.2
+2001,2001,North Carolina,37,Male,M,205,4022805,5.1
+2001,2001,North Dakota,38,Female,F,Suppressed,319787,Suppressed
+2001,2001,North Dakota,38,Male,M,Suppressed,319275,Suppressed
+2001,2001,Ohio,39,Female,F,106,5853691,1.8
+2001,2001,Ohio,39,Male,M,230,5533713,4.2
+2001,2001,Oklahoma,40,Female,F,56,1760052,3.2
+2001,2001,Oklahoma,40,Male,M,100,1707048,5.9
+2001,2001,Oregon,41,Female,F,57,1747889,3.3
+2001,2001,Oregon,41,Male,M,90,1720048,5.2
+2001,2001,Pennsylvania,42,Female,F,67,6354395,1.1
+2001,2001,Pennsylvania,42,Male,M,185,5944575,3.1
+2001,2001,Rhode Island,44,Female,F,27,548974,4.9
+2001,2001,Rhode Island,44,Male,M,51,508168,10.0
+2001,2001,South Carolina,45,Female,F,27,2089963,1.3
+2001,2001,South Carolina,45,Male,M,56,1975032,2.8
+2001,2001,South Dakota,46,Female,F,Suppressed,381537,Suppressed
+2001,2001,South Dakota,46,Male,M,Suppressed,376435,Suppressed
+2001,2001,Tennessee,47,Female,F,43,2948421,1.5
+2001,2001,Tennessee,47,Male,M,93,2802368,3.3
+2001,2001,Texas,48,Female,F,184,10731190,1.7
+2001,2001,Texas,48,Male,M,377,10588432,3.6
+2001,2001,Utah,49,Female,F,58,1139182,5.1
+2001,2001,Utah,49,Male,M,99,1144533,8.6
+2001,2001,Vermont,50,Female,F,12,311779,Unreliable
+2001,2001,Vermont,50,Male,M,19,300444,Unreliable
+2001,2001,Virginia,51,Female,F,95,3665386,2.6
+2001,2001,Virginia,51,Male,M,217,3532976,6.1
+2001,2001,Washington,53,Female,F,106,3002080,3.5
+2001,2001,Washington,53,Male,M,218,2983642,7.3
+2001,2001,West Virginia,54,Female,F,47,923643,5.1
+2001,2001,West Virginia,54,Male,M,91,877838,10.4
+2001,2001,Wisconsin,55,Female,F,49,2733647,1.8
+2001,2001,Wisconsin,55,Male,M,91,2673188,3.4
+2001,2001,Wyoming,56,Female,F,Suppressed,245327,Suppressed
+2001,2001,Wyoming,56,Male,M,Suppressed,249330,Suppressed
+2002,2002,Alabama,01,Female,F,30,2314370,1.3
+2002,2002,Alabama,01,Male,M,41,2165719,1.9
+2002,2002,Alaska,02,Female,F,Suppressed,309633,Suppressed
+2002,2002,Alaska,02,Male,M,Suppressed,332704,Suppressed
+2002,2002,Arizona,04,Female,F,103,2704217,3.8
+2002,2002,Arizona,04,Male,M,217,2692038,8.1
+2002,2002,Arkansas,05,Female,F,37,1383239,2.7
+2002,2002,Arkansas,05,Male,M,53,1322688,4.0
+2002,2002,California,06,Female,F,462,17498462,2.6
+2002,2002,California,06,Male,M,991,17373381,5.7
+2002,2002,Colorado,08,Female,F,73,2228665,3.3
+2002,2002,Colorado,08,Male,M,123,2261741,5.4
+2002,2002,Connecticut,09,Female,F,40,1780500,2.2
+2002,2002,Connecticut,09,Male,M,132,1678249,7.9
+2002,2002,Delaware,10,Female,F,13,414652,Unreliable
+2002,2002,Delaware,10,Male,M,35,391517,8.9
+2002,2002,District of Columbia,11,Female,F,10,303146,Unreliable
+2002,2002,District of Columbia,11,Male,M,19,270012,Unreliable
+2002,2002,Florida,12,Female,F,317,8541734,3.7
+2002,2002,Florida,12,Male,M,642,8147636,7.9
+2002,2002,Georgia,13,Female,F,69,4327934,1.6
+2002,2002,Georgia,13,Male,M,146,4180322,3.5
+2002,2002,Hawaii,15,Female,F,11,616192,Unreliable
+2002,2002,Hawaii,15,Male,M,35,623421,5.6
+2002,2002,Idaho,16,Female,F,21,668686,3.1
+2002,2002,Idaho,16,Male,M,24,671686,3.6
+2002,2002,Illinois,17,Female,F,147,6387897,2.3
+2002,2002,Illinois,17,Male,M,422,6137659,6.9
+2002,2002,Indiana,18,Female,F,19,3133342,Unreliable
+2002,2002,Indiana,18,Male,M,44,3022625,1.5
+2002,2002,Iowa,19,Female,F,17,1491450,Unreliable
+2002,2002,Iowa,19,Male,M,20,1442784,1.4
+2002,2002,Kansas,20,Female,F,27,1371898,2.0
+2002,2002,Kansas,20,Male,M,53,1341637,4.0
+2002,2002,Kentucky,21,Female,F,56,2087223,2.7
+2002,2002,Kentucky,21,Male,M,121,2002652,6.0
+2002,2002,Louisiana,22,Female,F,29,2315524,1.3
+2002,2002,Louisiana,22,Male,M,66,2181743,3.0
+2002,2002,Maine,23,Female,F,37,664226,5.6
+2002,2002,Maine,23,Male,M,54,631734,8.5
+2002,2002,Maryland,24,Female,F,144,2815197,5.1
+2002,2002,Maryland,24,Male,M,399,2625192,15.2
+2002,2002,Massachusetts,25,Female,F,134,3319436,4.0
+2002,2002,Massachusetts,25,Male,M,350,3097770,11.3
+2002,2002,Michigan,26,Female,F,79,5100171,1.5
+2002,2002,Michigan,26,Male,M,148,4915539,3.0
+2002,2002,Minnesota,27,Female,F,24,2531205,0.9
+2002,2002,Minnesota,27,Male,M,71,2487730,2.9
+2002,2002,Mississippi,28,Female,F,0,1475412,Unreliable
+2002,2002,Mississippi,28,Male,M,26,1383269,1.9
+2002,2002,Missouri,29,Female,F,60,2910476,2.1
+2002,2002,Missouri,29,Male,M,129,2764349,4.7
+2002,2002,Montana,30,Female,F,Suppressed,456712,Suppressed
+2002,2002,Montana,30,Male,M,11,454955,Unreliable
+2002,2002,Nebraska,31,Female,F,Suppressed,874803,Suppressed
+2002,2002,Nebraska,31,Male,M,16,853489,Unreliable
+2002,2002,Nevada,32,Female,F,70,1069764,6.5
+2002,2002,Nevada,32,Male,M,150,1104027,13.6
+2002,2002,New Hampshire,33,Female,F,28,643680,4.3
+2002,2002,New Hampshire,33,Male,M,52,625409,8.3
+2002,2002,New Jersey,34,Female,F,118,4398801,2.7
+2002,2002,New Jersey,34,Male,M,368,4153842,8.9
+2002,2002,New Mexico,35,Female,F,49,941856,5.2
+2002,2002,New Mexico,35,Male,M,147,913453,16.1
+2002,2002,New York,36,Female,F,144,9902927,1.5
+2002,2002,New York,36,Male,M,411,9234873,4.5
+2002,2002,North Carolina,37,Female,F,134,4250179,3.2
+2002,2002,North Carolina,37,Male,M,273,4076022,6.7
+2002,2002,North Dakota,38,Female,F,Suppressed,319017,Suppressed
+2002,2002,North Dakota,38,Male,M,Suppressed,319151,Suppressed
+2002,2002,Ohio,39,Female,F,142,5859385,2.4
+2002,2002,Ohio,39,Male,M,279,5548504,5.0
+2002,2002,Oklahoma,40,Female,F,65,1769080,3.7
+2002,2002,Oklahoma,40,Male,M,81,1720000,4.7
+2002,2002,Oregon,41,Female,F,76,1771126,4.3
+2002,2002,Oregon,41,Male,M,117,1742298,6.7
+2002,2002,Pennsylvania,42,Female,F,87,6363832,1.4
+2002,2002,Pennsylvania,42,Male,M,258,5967199,4.3
+2002,2002,Rhode Island,44,Female,F,18,553090,Unreliable
+2002,2002,Rhode Island,44,Male,M,54,512905,10.5
+2002,2002,South Carolina,45,Female,F,25,2111069,1.2
+2002,2002,South Carolina,45,Male,M,56,1996726,2.8
+2002,2002,South Dakota,46,Female,F,Suppressed,382328,Suppressed
+2002,2002,South Dakota,46,Male,M,Suppressed,377692,Suppressed
+2002,2002,Tennessee,47,Female,F,78,2971873,2.6
+2002,2002,Tennessee,47,Male,M,89,2824045,3.2
+2002,2002,Texas,48,Female,F,258,10914653,2.4
+2002,2002,Texas,48,Male,M,481,10775672,4.5
+2002,2002,Utah,49,Female,F,72,1158853,6.2
+2002,2002,Utah,49,Male,M,131,1165962,11.2
+2002,2002,Vermont,50,Female,F,13,312959,Unreliable
+2002,2002,Vermont,50,Male,M,23,302483,7.6
+2002,2002,Virginia,51,Female,F,98,3713695,2.6
+2002,2002,Virginia,51,Male,M,254,3573178,7.1
+2002,2002,Washington,53,Female,F,174,3036742,5.7
+2002,2002,Washington,53,Male,M,281,3015607,9.3
+2002,2002,West Virginia,54,Female,F,50,923841,5.4
+2002,2002,West Virginia,54,Male,M,128,881573,14.5
+2002,2002,Wisconsin,55,Female,F,63,2751697,2.3
+2002,2002,Wisconsin,55,Male,M,110,2693465,4.1
+2002,2002,Wyoming,56,Female,F,Suppressed,247785,Suppressed
+2002,2002,Wyoming,56,Male,M,Suppressed,252232,Suppressed
+2003,2003,Alabama,01,Female,F,17,2324069,Unreliable
+2003,2003,Alabama,01,Male,M,32,2179422,1.5
+2003,2003,Alaska,02,Female,F,Suppressed,313034,Suppressed
+2003,2003,Alaska,02,Male,M,Suppressed,335380,Suppressed
+2003,2003,Arizona,04,Female,F,123,2764077,4.4
+2003,2003,Arizona,04,Male,M,217,2746287,7.9
+2003,2003,Arkansas,05,Female,F,34,1391523,2.4
+2003,2003,Arkansas,05,Male,M,55,1333293,4.1
+2003,2003,California,06,Female,F,435,17709509,2.5
+2003,2003,California,06,Male,M,963,17543650,5.5
+2003,2003,Colorado,08,Female,F,63,2253214,2.8
+2003,2003,Colorado,08,Male,M,150,2275518,6.6
+2003,2003,Connecticut,09,Female,F,37,1793468,2.1
+2003,2003,Connecticut,09,Male,M,130,1690868,7.7
+2003,2003,Delaware,10,Female,F,Suppressed,420802,Suppressed
+2003,2003,Delaware,10,Male,M,28,397201,7.0
+2003,2003,District of Columbia,11,Female,F,19,300607,Unreliable
+2003,2003,District of Columbia,11,Male,M,41,267895,15.3
+2003,2003,Florida,12,Female,F,314,8697573,3.6
+2003,2003,Florida,12,Male,M,729,8306512,8.8
+2003,2003,Georgia,13,Female,F,87,4394952,2.0
+2003,2003,Georgia,13,Male,M,149,4227841,3.5
+2003,2003,Hawaii,15,Female,F,Suppressed,623753,Suppressed
+2003,2003,Hawaii,15,Male,M,34,627401,5.4
+2003,2003,Idaho,16,Female,F,27,679877,4.0
+2003,2003,Idaho,16,Male,M,27,683503,4.0
+2003,2003,Illinois,17,Female,F,125,6402859,2.0
+2003,2003,Illinois,17,Male,M,335,6153147,5.4
+2003,2003,Indiana,18,Female,F,38,3152366,1.2
+2003,2003,Indiana,18,Male,M,89,3044272,2.9
+2003,2003,Iowa,19,Female,F,13,1493907,Unreliable
+2003,2003,Iowa,19,Male,M,25,1448092,1.7
+2003,2003,Kansas,20,Female,F,29,1377415,2.1
+2003,2003,Kansas,20,Male,M,46,1345589,3.4
+2003,2003,Kentucky,21,Female,F,83,2102308,3.9
+2003,2003,Kentucky,21,Male,M,151,2014862,7.5
+2003,2003,Louisiana,22,Female,F,31,2327153,1.3
+2003,2003,Louisiana,22,Male,M,90,2193889,4.1
+2003,2003,Maine,23,Female,F,29,668680,4.3
+2003,2003,Maine,23,Male,M,57,637833,8.9
+2003,2003,Maryland,24,Female,F,148,2843847,5.2
+2003,2003,Maryland,24,Male,M,410,2652422,15.5
+2003,2003,Massachusetts,25,Female,F,147,3320817,4.4
+2003,2003,Massachusetts,25,Male,M,441,3101748,14.2
+2003,2003,Michigan,26,Female,F,98,5110521,1.9
+2003,2003,Michigan,26,Male,M,155,4930631,3.1
+2003,2003,Minnesota,27,Female,F,32,2546999,1.3
+2003,2003,Minnesota,27,Male,M,74,2506573,3.0
+2003,2003,Mississippi,28,Female,F,11,1479611,Unreliable
+2003,2003,Mississippi,28,Male,M,20,1388701,1.4
+2003,2003,Missouri,29,Female,F,92,2926556,3.1
+2003,2003,Missouri,29,Male,M,179,2782847,6.4
+2003,2003,Montana,30,Female,F,19,460116,Unreliable
+2003,2003,Montana,30,Male,M,22,459514,4.8
+2003,2003,Nebraska,31,Female,F,Suppressed,879362,Suppressed
+2003,2003,Nebraska,31,Male,M,Suppressed,859281,Suppressed
+2003,2003,Nevada,32,Female,F,93,1108135,8.4
+2003,2003,Nevada,32,Male,M,151,1140715,13.2
+2003,2003,New Hampshire,33,Female,F,26,648513,4.0
+2003,2003,New Hampshire,33,Male,M,66,631327,10.5
+2003,2003,New Jersey,34,Female,F,106,4421964,2.4
+2003,2003,New Jersey,34,Male,M,339,4179438,8.1
+2003,2003,New Mexico,35,Female,F,68,952303,7.1
+2003,2003,New Mexico,35,Male,M,150,925271,16.2
+2003,2003,New York,36,Female,F,138,9917810,1.4
+2003,2003,New York,36,Male,M,438,9258129,4.7
+2003,2003,North Carolina,37,Female,F,202,4313901,4.7
+2003,2003,North Carolina,37,Male,M,294,4108600,7.2
+2003,2003,North Dakota,38,Female,F,Suppressed,318896,Suppressed
+2003,2003,North Dakota,38,Male,M,Suppressed,319921,Suppressed
+2003,2003,Ohio,39,Female,F,112,5868535,1.9
+2003,2003,Ohio,39,Male,M,253,5566253,4.5
+2003,2003,Oklahoma,40,Female,F,95,1777723,5.3
+2003,2003,Oklahoma,40,Male,M,159,1727169,9.2
+2003,2003,Oregon,41,Female,F,79,1788805,4.4
+2003,2003,Oregon,41,Male,M,130,1758571,7.4
+2003,2003,Pennsylvania,42,Female,F,129,6377894,2.0
+2003,2003,Pennsylvania,42,Male,M,341,5996764,5.7
+2003,2003,Rhode Island,44,Female,F,24,555590,4.3
+2003,2003,Rhode Island,44,Male,M,75,515752,14.5
+2003,2003,South Carolina,45,Female,F,37,2133967,1.7
+2003,2003,South Carolina,45,Male,M,55,2016330,2.7
+2003,2003,South Dakota,46,Female,F,Suppressed,383633,Suppressed
+2003,2003,South Dakota,46,Male,M,Suppressed,380096,Suppressed
+2003,2003,Tennessee,47,Female,F,121,3000983,4.0
+2003,2003,Tennessee,47,Male,M,173,2846829,6.1
+2003,2003,Texas,48,Female,F,282,11095953,2.5
+2003,2003,Texas,48,Male,M,509,10934978,4.7
+2003,2003,Utah,49,Female,F,106,1175867,9.0
+2003,2003,Utah,49,Male,M,152,1184270,12.8
+2003,2003,Vermont,50,Female,F,11,314206,Unreliable
+2003,2003,Vermont,50,Male,M,34,303652,11.2
+2003,2003,Virginia,51,Female,F,130,3757780,3.5
+2003,2003,Virginia,51,Male,M,232,3609197,6.4
+2003,2003,Washington,53,Female,F,173,3065739,5.6
+2003,2003,Washington,53,Male,M,298,3038376,9.8
+2003,2003,West Virginia,54,Female,F,57,925835,6.2
+2003,2003,West Virginia,54,Male,M,136,886460,15.3
+2003,2003,Wisconsin,55,Female,F,60,2766901,2.2
+2003,2003,Wisconsin,55,Male,M,140,2712302,5.2
+2003,2003,Wyoming,56,Female,F,Suppressed,249128,Suppressed
+2003,2003,Wyoming,56,Male,M,Suppressed,254325,Suppressed
+2004,2004,Alabama,01,Female,F,29,2337857,1.2
+2004,2004,Alabama,01,Male,M,54,2192872,2.5
+2004,2004,Alaska,02,Female,F,Suppressed,317807,Suppressed
+2004,2004,Alaska,02,Male,M,Suppressed,341479,Suppressed
+2004,2004,Arizona,04,Female,F,107,2835606,3.8
+2004,2004,Arizona,04,Male,M,237,2816798,8.4
+2004,2004,Arkansas,05,Female,F,56,1403048,4.0
+2004,2004,Arkansas,05,Male,M,71,1346638,5.3
+2004,2004,California,06,Female,F,486,17871415,2.7
+2004,2004,California,06,Male,M,927,17703161,5.2
+2004,2004,Colorado,08,Female,F,69,2274511,3.0
+2004,2004,Colorado,08,Male,M,155,2300502,6.7
+2004,2004,Connecticut,09,Female,F,49,1798078,2.7
+2004,2004,Connecticut,09,Male,M,144,1698016,8.5
+2004,2004,Delaware,10,Female,F,11,427320,Unreliable
+2004,2004,Delaware,10,Male,M,24,403483,5.9
+2004,2004,District of Columbia,11,Female,F,13,300284,Unreliable
+2004,2004,District of Columbia,11,Male,M,40,267470,15.0
+2004,2004,Florida,12,Female,F,411,8902447,4.6
+2004,2004,Florida,12,Male,M,785,8512871,9.2
+2004,2004,Georgia,13,Female,F,102,4463524,2.3
+2004,2004,Georgia,13,Male,M,156,4305728,3.6
+2004,2004,Hawaii,15,Female,F,15,636864,Unreliable
+2004,2004,Hawaii,15,Male,M,42,636705,6.6
+2004,2004,Idaho,16,Female,F,19,693186,Unreliable
+2004,2004,Idaho,16,Male,M,28,698616,4.0
+2004,2004,Illinois,17,Female,F,128,6414209,2.0
+2004,2004,Illinois,17,Male,M,404,6175564,6.5
+2004,2004,Indiana,18,Female,F,38,3168952,1.2
+2004,2004,Indiana,18,Male,M,100,3064055,3.3
+2004,2004,Iowa,19,Female,F,26,1498888,1.7
+2004,2004,Iowa,19,Male,M,35,1454747,2.4
+2004,2004,Kansas,20,Female,F,46,1382396,3.3
+2004,2004,Kansas,20,Male,M,70,1351977,5.2
+2004,2004,Kentucky,21,Female,F,75,2112051,3.6
+2004,2004,Kentucky,21,Male,M,146,2034050,7.2
+2004,2004,Louisiana,22,Female,F,51,2338753,2.2
+2004,2004,Louisiana,22,Male,M,93,2213485,4.2
+2004,2004,Maine,23,Female,F,32,671862,4.8
+2004,2004,Maine,23,Male,M,66,641826,10.3
+2004,2004,Maryland,24,Female,F,139,2870043,4.8
+2004,2004,Maryland,24,Male,M,347,2676892,13.0
+2004,2004,Massachusetts,25,Female,F,128,3314634,3.9
+2004,2004,Massachusetts,25,Male,M,331,3097647,10.7
+2004,2004,Michigan,26,Female,F,116,5117929,2.3
+2004,2004,Michigan,26,Male,M,235,4937386,4.8
+2004,2004,Minnesota,27,Female,F,50,2564037,2.0
+2004,2004,Minnesota,27,Male,M,85,2523676,3.4
+2004,2004,Mississippi,28,Female,F,Suppressed,1490115,Suppressed
+2004,2004,Mississippi,28,Male,M,18,1398895,Unreliable
+2004,2004,Missouri,29,Female,F,98,2942685,3.3
+2004,2004,Missouri,29,Male,M,177,2805056,6.3
+2004,2004,Montana,30,Female,F,19,465000,Unreliable
+2004,2004,Montana,30,Male,M,26,465009,5.6
+2004,2004,Nebraska,31,Female,F,11,883984,Unreliable
+2004,2004,Nebraska,31,Male,M,15,865386,Unreliable
+2004,2004,Nevada,32,Female,F,113,1156586,9.8
+2004,2004,Nevada,32,Male,M,162,1189636,13.6
+2004,2004,New Hampshire,33,Female,F,31,653845,4.7
+2004,2004,New Hampshire,33,Male,M,59,636276,9.3
+2004,2004,New Jersey,34,Female,F,89,4436964,2.0
+2004,2004,New Jersey,34,Male,M,223,4197597,5.3
+2004,2004,New Mexico,35,Female,F,64,964738,6.6
+2004,2004,New Mexico,35,Male,M,121,939070,12.9
+2004,2004,New York,36,Female,F,130,9913527,1.3
+2004,2004,New York,36,Male,M,349,9258040,3.8
+2004,2004,North Carolina,37,Female,F,230,4376070,5.3
+2004,2004,North Carolina,37,Male,M,332,4177082,7.9
+2004,2004,North Dakota,38,Female,F,Suppressed,321008,Suppressed
+2004,2004,North Dakota,38,Male,M,Suppressed,323697,Suppressed
+2004,2004,Ohio,39,Female,F,183,5874411,3.1
+2004,2004,Ohio,39,Male,M,332,5577840,6.0
+2004,2004,Oklahoma,40,Female,F,109,1784671,6.1
+2004,2004,Oklahoma,40,Male,M,197,1740562,11.3
+2004,2004,Oregon,41,Female,F,96,1800377,5.3
+2004,2004,Oregon,41,Male,M,129,1769086,7.3
+2004,2004,Pennsylvania,42,Female,F,120,6390749,1.9
+2004,2004,Pennsylvania,42,Male,M,355,6019973,5.9
+2004,2004,Rhode Island,44,Female,F,27,556375,4.9
+2004,2004,Rhode Island,44,Male,M,48,518204,9.3
+2004,2004,South Carolina,45,Female,F,46,2162305,2.1
+2004,2004,South Carolina,45,Male,M,82,2048616,4.0
+2004,2004,South Dakota,46,Female,F,Suppressed,386677,Suppressed
+2004,2004,South Dakota,46,Male,M,11,383719,Unreliable
+2004,2004,Tennessee,47,Female,F,156,3027931,5.2
+2004,2004,Tennessee,47,Male,M,223,2882878,7.7
+2004,2004,Texas,48,Female,F,290,11278402,2.6
+2004,2004,Texas,48,Male,M,524,11115621,4.7
+2004,2004,Utah,49,Female,F,92,1196749,7.7
+2004,2004,Utah,49,Male,M,172,1204831,14.3
+2004,2004,Vermont,50,Female,F,Suppressed,315080,Suppressed
+2004,2004,Vermont,50,Male,M,28,304840,9.2
+2004,2004,Virginia,51,Female,F,130,3814310,3.4
+2004,2004,Virginia,51,Male,M,260,3661265,7.1
+2004,2004,Washington,53,Female,F,211,3107815,6.8
+2004,2004,Washington,53,Male,M,364,3070830,11.9
+2004,2004,West Virginia,54,Female,F,89,927027,9.6
+2004,2004,West Virginia,54,Male,M,162,889411,18.2
+2004,2004,Wisconsin,55,Female,F,72,2782678,2.6
+2004,2004,Wisconsin,55,Male,M,149,2731348,5.5
+2004,2004,Wyoming,56,Female,F,Suppressed,251506,Suppressed
+2004,2004,Wyoming,56,Male,M,Suppressed,257600,Suppressed
+2005,2005,Alabama,01,Female,F,25,2356423,1.1
+2005,2005,Alabama,01,Male,M,55,2213382,2.5
+2005,2005,Alaska,02,Female,F,Suppressed,320920,Suppressed
+2005,2005,Alaska,02,Male,M,12,346026,Unreliable
+2005,2005,Arizona,04,Female,F,147,2930811,5.0
+2005,2005,Arizona,04,Male,M,228,2908266,7.8
+2005,2005,Arkansas,05,Female,F,46,1418295,3.2
+2005,2005,Arkansas,05,Male,M,77,1362802,5.7
+2005,2005,California,06,Female,F,492,17996230,2.7
+2005,2005,California,06,Male,M,880,17831713,4.9
+2005,2005,Colorado,08,Female,F,94,2308238,4.1
+2005,2005,Colorado,08,Male,M,201,2323650,8.7
+2005,2005,Connecticut,09,Female,F,45,1802068,2.5
+2005,2005,Connecticut,09,Male,M,118,1704888,6.9
+2005,2005,Delaware,10,Female,F,10,435227,Unreliable
+2005,2005,Delaware,10,Male,M,19,409923,Unreliable
+2005,2005,District of Columbia,11,Female,F,16,299613,Unreliable
+2005,2005,District of Columbia,11,Male,M,28,267523,10.5
+2005,2005,Florida,12,Female,F,362,9117950,4.0
+2005,2005,Florida,12,Male,M,735,8724088,8.4
+2005,2005,Georgia,13,Female,F,103,4555263,2.3
+2005,2005,Georgia,13,Male,M,197,4370659,4.5
+2005,2005,Hawaii,15,Female,F,27,644813,4.2
+2005,2005,Hawaii,15,Male,M,40,647916,6.2
+2005,2005,Idaho,16,Female,F,19,711983,Unreliable
+2005,2005,Idaho,16,Male,M,31,716258,4.3
+2005,2005,Illinois,17,Female,F,154,6423831,2.4
+2005,2005,Illinois,17,Male,M,436,6186072,7.0
+2005,2005,Indiana,18,Female,F,50,3191481,1.6
+2005,2005,Indiana,18,Male,M,110,3087135,3.6
+2005,2005,Iowa,19,Female,F,34,1503019,2.3
+2005,2005,Iowa,19,Male,M,33,1461435,2.3
+2005,2005,Kansas,20,Female,F,39,1387958,2.8
+2005,2005,Kansas,20,Male,M,67,1357341,4.9
+2005,2005,Kentucky,21,Female,F,86,2129658,4.0
+2005,2005,Kentucky,21,Male,M,199,2053084,9.7
+2005,2005,Louisiana,22,Female,F,52,2349441,2.2
+2005,2005,Louisiana,22,Male,M,120,2227187,5.4
+2005,2005,Maine,23,Female,F,44,674104,6.5
+2005,2005,Maine,23,Male,M,72,644683,11.2
+2005,2005,Maryland,24,Female,F,142,2891761,4.9
+2005,2005,Maryland,24,Male,M,353,2700618,13.1
+2005,2005,Massachusetts,25,Female,F,168,3309010,5.1
+2005,2005,Massachusetts,25,Male,M,389,3094280,12.6
+2005,2005,Michigan,26,Female,F,162,5114320,3.2
+2005,2005,Michigan,26,Male,M,321,4936817,6.5
+2005,2005,Minnesota,27,Female,F,50,2579546,1.9
+2005,2005,Minnesota,27,Male,M,94,2540052,3.7
+2005,2005,Mississippi,28,Female,F,16,1497962,Unreliable
+2005,2005,Mississippi,28,Male,M,24,1407981,1.7
+2005,2005,Missouri,29,Female,F,115,2962870,3.9
+2005,2005,Missouri,29,Male,M,187,2827430,6.6
+2005,2005,Montana,30,Female,F,21,469780,4.5
+2005,2005,Montana,30,Male,M,24,470322,5.1
+2005,2005,Nebraska,31,Female,F,21,889468,2.4
+2005,2005,Nebraska,31,Male,M,22,872029,2.5
+2005,2005,Nevada,32,Female,F,137,1198846,11.4
+2005,2005,Nevada,32,Male,M,186,1233297,15.1
+2005,2005,New Hampshire,33,Female,F,28,657932,4.3
+2005,2005,New Hampshire,33,Male,M,81,640560,12.6
+2005,2005,New Jersey,34,Female,F,114,4443545,2.6
+2005,2005,New Jersey,34,Male,M,321,4208429,7.6
+2005,2005,New Mexico,35,Female,F,53,978520,5.4
+2005,2005,New Mexico,35,Male,M,158,953754,16.6
+2005,2005,New York,36,Female,F,146,9887467,1.5
+2005,2005,New York,36,Male,M,416,9245143,4.5
+2005,2005,North Carolina,37,Female,F,245,4457189,5.5
+2005,2005,North Carolina,37,Male,M,409,4248218,9.6
+2005,2005,North Dakota,38,Female,F,Suppressed,321543,Suppressed
+2005,2005,North Dakota,38,Male,M,Suppressed,324546,Suppressed
+2005,2005,Ohio,39,Female,F,187,5876703,3.2
+2005,2005,Ohio,39,Male,M,373,5586617,6.7
+2005,2005,Oklahoma,40,Female,F,139,1796475,7.7
+2005,2005,Oklahoma,40,Male,M,174,1752122,9.9
+2005,2005,Oregon,41,Female,F,93,1823447,5.1
+2005,2005,Oregon,41,Male,M,174,1789755,9.7
+2005,2005,Pennsylvania,42,Female,F,161,6405053,2.5
+2005,2005,Pennsylvania,42,Male,M,343,6044937,5.7
+2005,2005,Rhode Island,44,Female,F,40,552832,7.2
+2005,2005,Rhode Island,44,Male,M,72,515084,14.0
+2005,2005,South Carolina,45,Female,F,60,2192345,2.7
+2005,2005,South Carolina,45,Male,M,89,2077805,4.3
+2005,2005,South Dakota,46,Female,F,11,389021,Unreliable
+2005,2005,South Dakota,46,Male,M,11,386472,Unreliable
+2005,2005,Tennessee,47,Female,F,208,3068439,6.8
+2005,2005,Tennessee,47,Male,M,239,2922618,8.2
+2005,2005,Texas,48,Female,F,312,11470439,2.7
+2005,2005,Texas,48,Male,M,560,11307684,5.0
+2005,2005,Utah,49,Female,F,144,1224741,11.8
+2005,2005,Utah,49,Male,M,182,1232978,14.8
+2005,2005,Vermont,50,Female,F,12,315422,Unreliable
+2005,2005,Vermont,50,Male,M,25,305793,8.2
+2005,2005,Virginia,51,Female,F,139,3863646,3.6
+2005,2005,Virginia,51,Male,M,224,3713459,6.0
+2005,2005,Washington,53,Female,F,232,3145396,7.4
+2005,2005,Washington,53,Male,M,371,3111909,11.9
+2005,2005,West Virginia,54,Female,F,38,927690,4.1
+2005,2005,West Virginia,54,Male,M,102,892802,11.4
+2005,2005,Wisconsin,55,Female,F,109,2797061,3.9
+2005,2005,Wisconsin,55,Male,M,164,2749105,6.0
+2005,2005,Wyoming,56,Female,F,Suppressed,253726,Suppressed
+2005,2005,Wyoming,56,Male,M,Suppressed,260431,Suppressed
+2006,2006,Alabama,01,Female,F,56,2385480,2.3
+2006,2006,Alabama,01,Male,M,68,2243501,3.0
+2006,2006,Alaska,02,Female,F,Suppressed,325121,Suppressed
+2006,2006,Alaska,02,Male,M,20,350181,5.7
+2006,2006,Arizona,04,Female,F,166,3026134,5.5
+2006,2006,Arizona,04,Male,M,293,3003007,9.8
+2006,2006,Arkansas,05,Female,F,45,1438428,3.1
+2006,2006,Arkansas,05,Male,M,95,1383333,6.9
+2006,2006,California,06,Female,F,513,18097471,2.8
+2006,2006,California,06,Male,M,998,17923731,5.6
+2006,2006,Colorado,08,Female,F,123,2352960,5.2
+2006,2006,Colorado,08,Male,M,203,2367463,8.6
+2006,2006,Connecticut,09,Female,F,50,1807675,2.8
+2006,2006,Connecticut,09,Male,M,174,1709785,10.2
+2006,2006,Delaware,10,Female,F,Suppressed,442766,Suppressed
+2006,2006,Delaware,10,Male,M,28,416502,6.7
+2006,2006,District of Columbia,11,Female,F,20,301322,6.6
+2006,2006,District of Columbia,11,Male,M,35,269359,13.0
+2006,2006,Florida,12,Female,F,417,9280080,4.5
+2006,2006,Florida,12,Male,M,806,8886910,9.1
+2006,2006,Georgia,13,Female,F,121,4670606,2.6
+2006,2006,Georgia,13,Male,M,210,4485207,4.7
+2006,2006,Hawaii,15,Female,F,14,652351,Unreliable
+2006,2006,Hawaii,15,Male,M,40,657380,6.1
+2006,2006,Idaho,16,Female,F,29,732104,4.0
+2006,2006,Idaho,16,Male,M,41,736565,5.6
+2006,2006,Illinois,17,Female,F,191,6440022,3.0
+2006,2006,Illinois,17,Male,M,679,6203933,10.9
+2006,2006,Indiana,18,Female,F,65,3218203,2.0
+2006,2006,Indiana,18,Male,M,111,3114466,3.6
+2006,2006,Iowa,19,Female,F,38,1511124,2.5
+2006,2006,Iowa,19,Male,M,55,1471520,3.7
+2006,2006,Kansas,20,Female,F,57,1394092,4.1
+2006,2006,Kansas,20,Male,M,63,1368839,4.6
+2006,2006,Kentucky,21,Female,F,109,2149096,5.1
+2006,2006,Kentucky,21,Male,M,222,2070143,10.7
+2006,2006,Louisiana,22,Female,F,61,2204072,2.8
+2006,2006,Louisiana,22,Male,M,133,2098593,6.3
+2006,2006,Maine,23,Female,F,26,676157,3.8
+2006,2006,Maine,23,Male,M,67,647462,10.3
+2006,2006,Maryland,24,Female,F,157,2907963,5.4
+2006,2006,Maryland,24,Male,M,408,2719404,15.0
+2006,2006,Massachusetts,25,Female,F,202,3311185,6.1
+2006,2006,Massachusetts,25,Male,M,457,3098899,14.7
+2006,2006,Michigan,26,Female,F,207,5106621,4.1
+2006,2006,Michigan,26,Male,M,387,4929460,7.9
+2006,2006,Minnesota,27,Female,F,49,2600951,1.9
+2006,2006,Minnesota,27,Male,M,109,2562604,4.3
+2006,2006,Mississippi,28,Female,F,25,1496313,1.7
+2006,2006,Mississippi,28,Male,M,40,1408665,2.8
+2006,2006,Missouri,29,Female,F,141,2987563,4.7
+2006,2006,Missouri,29,Male,M,262,2855141,9.2
+2006,2006,Montana,30,Female,F,14,475341,Unreliable
+2006,2006,Montana,30,Male,M,33,477351,6.9
+2006,2006,Nebraska,31,Female,F,17,894687,Unreliable
+2006,2006,Nebraska,31,Male,M,17,878006,Unreliable
+2006,2006,Nevada,32,Female,F,135,1243993,10.9
+2006,2006,Nevada,32,Male,M,208,1278665,16.3
+2006,2006,New Hampshire,33,Female,F,45,662773,6.8
+2006,2006,New Hampshire,33,Male,M,59,645616,9.1
+2006,2006,New Jersey,34,Female,F,97,4448099,2.2
+2006,2006,New Jersey,34,Male,M,275,4213580,6.5
+2006,2006,New Mexico,35,Female,F,87,993969,8.8
+2006,2006,New Mexico,35,Male,M,156,968168,16.1
+2006,2006,New York,36,Female,F,270,9871401,2.7
+2006,2006,New York,36,Male,M,740,9233230,8.0
+2006,2006,North Carolina,37,Female,F,250,4563152,5.5
+2006,2006,North Carolina,37,Male,M,446,4354118,10.2
+2006,2006,North Dakota,38,Female,F,Suppressed,322583,Suppressed
+2006,2006,North Dakota,38,Male,M,Suppressed,326839,Suppressed
+2006,2006,Ohio,39,Female,F,202,5883067,3.4
+2006,2006,Ohio,39,Male,M,432,5598146,7.7
+2006,2006,Oklahoma,40,Female,F,155,1818693,8.5
+2006,2006,Oklahoma,40,Male,M,228,1775397,12.8
+2006,2006,Oregon,41,Female,F,150,1853117,8.1
+2006,2006,Oregon,41,Male,M,209,1817766,11.5
+2006,2006,Pennsylvania,42,Female,F,126,6429312,2.0
+2006,2006,Pennsylvania,42,Male,M,292,6081497,4.8
+2006,2006,Rhode Island,44,Female,F,26,550134,4.7
+2006,2006,Rhode Island,44,Male,M,104,512962,20.3
+2006,2006,South Carolina,45,Female,F,88,2237655,3.9
+2006,2006,South Carolina,45,Male,M,126,2120192,5.9
+2006,2006,South Dakota,46,Female,F,14,392420,Unreliable
+2006,2006,South Dakota,46,Male,M,Suppressed,390613,Suppressed
+2006,2006,Tennessee,47,Female,F,198,3121455,6.3
+2006,2006,Tennessee,47,Male,M,272,2967311,9.2
+2006,2006,Texas,48,Female,F,387,11771243,3.3
+2006,2006,Texas,48,Male,M,680,11588337,5.9
+2006,2006,Utah,49,Female,F,121,1257991,9.6
+2006,2006,Utah,49,Male,M,210,1267516,16.6
+2006,2006,Vermont,50,Female,F,16,316290,Unreliable
+2006,2006,Vermont,50,Male,M,41,306602,13.4
+2006,2006,Virginia,51,Female,F,155,3908475,4.0
+2006,2006,Virginia,51,Male,M,253,3765250,6.7
+2006,2006,Washington,53,Female,F,279,3200695,8.7
+2006,2006,Washington,53,Male,M,382,3170058,12.1
+2006,2006,West Virginia,54,Female,F,102,930605,11.0
+2006,2006,West Virginia,54,Male,M,183,897307,20.4
+2006,2006,Wisconsin,55,Female,F,105,2812276,3.7
+2006,2006,Wisconsin,55,Male,M,229,2765379,8.3
+2006,2006,Wyoming,56,Female,F,Suppressed,257361,Suppressed
+2006,2006,Wyoming,56,Male,M,10,265306,Unreliable
+2007,2007,Alabama,01,Female,F,64,2407275,2.7
+2007,2007,Alabama,01,Male,M,101,2265565,4.5
+2007,2007,Alaska,02,Female,F,Suppressed,327138,Suppressed
+2007,2007,Alaska,02,Male,M,10,353162,Unreliable
+2007,2007,Arizona,04,Female,F,163,3096998,5.3
+2007,2007,Arizona,04,Male,M,298,3070683,9.7
+2007,2007,Arkansas,05,Female,F,65,1451358,4.5
+2007,2007,Arkansas,05,Male,M,83,1397292,5.9
+2007,2007,California,06,Female,F,583,18214926,3.2
+2007,2007,California,06,Male,M,1074,18035385,6.0
+2007,2007,Colorado,08,Female,F,153,2396433,6.4
+2007,2007,Colorado,08,Male,M,200,2407435,8.3
+2007,2007,Connecticut,09,Female,F,69,1811617,3.8
+2007,2007,Connecticut,09,Male,M,175,1715653,10.2
+2007,2007,Delaware,10,Female,F,17,449398,Unreliable
+2007,2007,Delaware,10,Male,M,28,422351,6.6
+2007,2007,District of Columbia,11,Female,F,11,302949,Unreliable
+2007,2007,District of Columbia,11,Male,M,18,271455,Unreliable
+2007,2007,Florida,12,Female,F,514,9378587,5.5
+2007,2007,Florida,12,Male,M,959,8989255,10.7
+2007,2007,Georgia,13,Female,F,143,4777572,3.0
+2007,2007,Georgia,13,Male,M,242,4572416,5.3
+2007,2007,Hawaii,15,Female,F,20,657185,3.0
+2007,2007,Hawaii,15,Male,M,58,658490,8.8
+2007,2007,Idaho,16,Female,F,25,750127,3.3
+2007,2007,Idaho,16,Male,M,37,754978,4.9
+2007,2007,Illinois,17,Female,F,213,6467577,3.3
+2007,2007,Illinois,17,Male,M,478,6228289,7.7
+2007,2007,Indiana,18,Female,F,79,3241454,2.4
+2007,2007,Indiana,18,Male,M,162,3138145,5.2
+2007,2007,Iowa,19,Female,F,42,1518023,2.8
+2007,2007,Iowa,19,Male,M,65,1481189,4.4
+2007,2007,Kansas,20,Female,F,42,1405705,3.0
+2007,2007,Kansas,20,Male,M,75,1378080,5.4
+2007,2007,Kentucky,21,Female,F,110,2164210,5.1
+2007,2007,Kentucky,21,Male,M,233,2092462,11.1
+2007,2007,Louisiana,22,Female,F,70,2239125,3.1
+2007,2007,Louisiana,22,Male,M,142,2136456,6.6
+2007,2007,Maine,23,Female,F,31,677797,4.6
+2007,2007,Maine,23,Male,M,71,649243,10.9
+2007,2007,Maryland,24,Female,F,179,2920109,6.1
+2007,2007,Maryland,24,Male,M,421,2733299,15.4
+2007,2007,Massachusetts,25,Female,F,215,3321653,6.5
+2007,2007,Massachusetts,25,Male,M,434,3109906,14.0
+2007,2007,Michigan,26,Female,F,161,5091035,3.2
+2007,2007,Michigan,26,Male,M,345,4910249,7.0
+2007,2007,Minnesota,27,Female,F,67,2622551,2.6
+2007,2007,Minnesota,27,Male,M,113,2584652,4.4
+2007,2007,Mississippi,28,Female,F,32,1507071,2.1
+2007,2007,Mississippi,28,Male,M,63,1421279,4.4
+2007,2007,Missouri,29,Female,F,140,3007493,4.7
+2007,2007,Missouri,29,Male,M,250,2880119,8.7
+2007,2007,Montana,30,Female,F,25,480939,5.2
+2007,2007,Montana,30,Male,M,37,483767,7.6
+2007,2007,Nebraska,31,Female,F,22,900106,2.4
+2007,2007,Nebraska,31,Male,M,17,883334,Unreliable
+2007,2007,Nevada,32,Female,F,161,1284052,12.5
+2007,2007,Nevada,32,Male,M,215,1317020,16.3
+2007,2007,New Hampshire,33,Female,F,53,664987,8.0
+2007,2007,New Hampshire,33,Male,M,92,647553,14.2
+2007,2007,New Jersey,34,Female,F,98,4455148,2.2
+2007,2007,New Jersey,34,Male,M,241,4222737,5.7
+2007,2007,New Mexico,35,Female,F,76,1007922,7.5
+2007,2007,New Mexico,35,Male,M,190,982148,19.3
+2007,2007,New York,36,Female,F,316,9881510,3.2
+2007,2007,New York,36,Male,M,713,9250825,7.7
+2007,2007,North Carolina,37,Female,F,297,4677313,6.3
+2007,2007,North Carolina,37,Male,M,453,4440724,10.2
+2007,2007,North Dakota,38,Female,F,Suppressed,324066,Suppressed
+2007,2007,North Dakota,38,Male,M,11,328756,Unreliable
+2007,2007,Ohio,39,Female,F,234,5890965,4.0
+2007,2007,Ohio,39,Male,M,471,5609503,8.4
+2007,2007,Oklahoma,40,Female,F,215,1837175,11.7
+2007,2007,Oklahoma,40,Male,M,277,1797174,15.4
+2007,2007,Oregon,41,Female,F,138,1879347,7.3
+2007,2007,Oregon,41,Male,M,220,1843070,11.9
+2007,2007,Pennsylvania,42,Female,F,128,6452087,2.0
+2007,2007,Pennsylvania,42,Male,M,364,6111850,6.0
+2007,2007,Rhode Island,44,Female,F,25,546859,4.6
+2007,2007,Rhode Island,44,Male,M,62,510456,12.1
+2007,2007,South Carolina,45,Female,F,94,2280792,4.1
+2007,2007,South Carolina,45,Male,M,105,2163318,4.9
+2007,2007,South Dakota,46,Female,F,11,396650,Unreliable
+2007,2007,South Dakota,46,Male,M,Suppressed,394973,Suppressed
+2007,2007,Tennessee,47,Female,F,202,3162280,6.4
+2007,2007,Tennessee,47,Male,M,277,3013447,9.2
+2007,2007,Texas,48,Female,F,379,12010572,3.2
+2007,2007,Texas,48,Male,M,642,11821411,5.4
+2007,2007,Utah,49,Female,F,138,1292672,10.7
+2007,2007,Utah,49,Male,M,221,1305074,16.9
+2007,2007,Vermont,50,Female,F,22,316538,7.0
+2007,2007,Vermont,50,Male,M,30,306943,9.8
+2007,2007,Virginia,51,Female,F,216,3947966,5.5
+2007,2007,Virginia,51,Male,M,286,3803034,7.5
+2007,2007,Washington,53,Female,F,257,3247800,7.9
+2007,2007,Washington,53,Male,M,394,3213787,12.3
+2007,2007,West Virginia,54,Female,F,114,932683,12.2
+2007,2007,West Virginia,54,Male,M,218,901369,24.2
+2007,2007,Wisconsin,55,Female,F,131,2827782,4.6
+2007,2007,Wisconsin,55,Male,M,240,2782993,8.6
+2007,2007,Wyoming,56,Female,F,10,262776,Unreliable
+2007,2007,Wyoming,56,Male,M,15,272100,Unreliable
+2008,2008,Alabama,01,Female,F,78,2430257,3.2
+2008,2008,Alabama,01,Male,M,107,2287949,4.7
+2008,2008,Alaska,02,Female,F,28,329412,8.5
+2008,2008,Alaska,02,Male,M,60,358043,16.8
+2008,2008,Arizona,04,Female,F,185,3155278,5.9
+2008,2008,Arizona,04,Male,M,309,3125084,9.9
+2008,2008,Arkansas,05,Female,F,85,1464220,5.8
+2008,2008,Arkansas,05,Male,M,112,1410334,7.9
+2008,2008,California,06,Female,F,625,18396972,3.4
+2008,2008,California,06,Male,M,1176,18207365,6.5
+2008,2008,Colorado,08,Female,F,134,2439060,5.5
+2008,2008,Colorado,08,Male,M,221,2450670,9.0
+2008,2008,Connecticut,09,Female,F,65,1820749,3.6
+2008,2008,Connecticut,09,Male,M,165,1724830,9.6
+2008,2008,Delaware,10,Female,F,26,455481,5.7
+2008,2008,Delaware,10,Male,M,39,428393,9.1
+2008,2008,District of Columbia,11,Female,F,Suppressed,306265,Suppressed
+2008,2008,District of Columbia,11,Male,M,25,273971,9.1
+2008,2008,Florida,12,Female,F,478,9465279,5.1
+2008,2008,Florida,12,Male,M,1000,9062026,11.0
+2008,2008,Georgia,13,Female,F,141,4856984,2.9
+2008,2008,Georgia,13,Male,M,263,4647859,5.7
+2008,2008,Hawaii,15,Female,F,27,665313,4.1
+2008,2008,Hawaii,15,Male,M,26,666900,3.9
+2008,2008,Idaho,16,Female,F,28,764792,3.7
+2008,2008,Idaho,16,Male,M,44,769528,5.7
+2008,2008,Illinois,17,Female,F,234,6493537,3.6
+2008,2008,Illinois,17,Male,M,612,6253501,9.8
+2008,2008,Indiana,18,Female,F,96,3263963,2.9
+2008,2008,Indiana,18,Male,M,215,3160843,6.8
+2008,2008,Iowa,19,Female,F,50,1525539,3.3
+2008,2008,Iowa,19,Male,M,77,1491195,5.2
+2008,2008,Kansas,20,Female,F,44,1415563,3.1
+2008,2008,Kansas,20,Male,M,52,1392513,3.7
+2008,2008,Kentucky,21,Female,F,125,2183532,5.7
+2008,2008,Kentucky,21,Male,M,240,2106346,11.4
+2008,2008,Louisiana,22,Female,F,47,2269630,2.1
+2008,2008,Louisiana,22,Male,M,83,2165956,3.8
+2008,2008,Maine,23,Female,F,43,679413,6.3
+2008,2008,Maine,23,Male,M,62,651096,9.5
+2008,2008,Maryland,24,Female,F,156,2935788,5.3
+2008,2008,Maryland,24,Male,M,357,2749177,13.0
+2008,2008,Massachusetts,25,Female,F,165,3340730,4.9
+2008,2008,Massachusetts,25,Male,M,431,3128237,13.8
+2008,2008,Michigan,26,Female,F,229,5065899,4.5
+2008,2008,Michigan,26,Male,M,414,4880990,8.5
+2008,2008,Minnesota,27,Female,F,86,2642672,3.3
+2008,2008,Minnesota,27,Male,M,141,2604346,5.4
+2008,2008,Mississippi,28,Female,F,48,1516955,3.2
+2008,2008,Mississippi,28,Male,M,58,1430851,4.1
+2008,2008,Missouri,29,Female,F,158,3024837,5.2
+2008,2008,Missouri,29,Male,M,317,2899079,10.9
+2008,2008,Montana,30,Female,F,31,486477,6.4
+2008,2008,Montana,30,Male,M,39,489938,8.0
+2008,2008,Nebraska,31,Female,F,13,905814,Unreliable
+2008,2008,Nebraska,31,Male,M,16,890564,Unreliable
+2008,2008,Nevada,32,Female,F,156,1310601,11.9
+2008,2008,Nevada,32,Male,M,241,1343029,17.9
+2008,2008,New Hampshire,33,Female,F,42,666576,6.3
+2008,2008,New Hampshire,33,Male,M,52,649330,8.0
+2008,2008,New Jersey,34,Female,F,96,4469901,2.1
+2008,2008,New Jersey,34,Male,M,235,4241189,5.5
+2008,2008,New Mexico,35,Female,F,93,1018578,9.1
+2008,2008,New Mexico,35,Male,M,231,992084,23.3
+2008,2008,New York,36,Female,F,345,9918841,3.5
+2008,2008,New York,36,Male,M,771,9293595,8.3
+2008,2008,North Carolina,37,Female,F,304,4771376,6.4
+2008,2008,North Carolina,37,Male,M,542,4538073,11.9
+2008,2008,North Dakota,38,Female,F,16,326131,Unreliable
+2008,2008,North Dakota,38,Male,M,16,331438,Unreliable
+2008,2008,Ohio,39,Female,F,267,5896594,4.5
+2008,2008,Ohio,39,Male,M,547,5618797,9.7
+2008,2008,Oklahoma,40,Female,F,162,1854771,8.7
+2008,2008,Oklahoma,40,Male,M,248,1814205,13.7
+2008,2008,Oregon,41,Female,F,120,1903535,6.3
+2008,2008,Oregon,41,Male,M,222,1865213,11.9
+2008,2008,Pennsylvania,42,Female,F,197,6473295,3.0
+2008,2008,Pennsylvania,42,Male,M,414,6138990,6.7
+2008,2008,Rhode Island,44,Female,F,39,545412,7.2
+2008,2008,Rhode Island,44,Male,M,94,509591,18.4
+2008,2008,South Carolina,45,Female,F,94,2325047,4.0
+2008,2008,South Carolina,45,Male,M,124,2203949,5.6
+2008,2008,South Dakota,46,Female,F,10,400236,Unreliable
+2008,2008,South Dakota,46,Male,M,21,398888,5.3
+2008,2008,Tennessee,47,Female,F,197,3203115,6.2
+2008,2008,Tennessee,47,Male,M,283,3044296,9.3
+2008,2008,Texas,48,Female,F,335,12249936,2.7
+2008,2008,Texas,48,Male,M,609,12059103,5.1
+2008,2008,Utah,49,Female,F,137,1325631,10.3
+2008,2008,Utah,49,Male,M,213,1337398,15.9
+2008,2008,Vermont,50,Female,F,17,316722,Unreliable
+2008,2008,Vermont,50,Male,M,40,307429,13.0
+2008,2008,Virginia,51,Female,F,184,3988983,4.6
+2008,2008,Virginia,51,Male,M,306,3844513,8.0
+2008,2008,Washington,53,Female,F,288,3293162,8.7
+2008,2008,Washington,53,Male,M,402,3269069,12.3
+2008,2008,West Virginia,54,Female,F,135,934911,14.4
+2008,2008,West Virginia,54,Male,M,236,905399,26.1
+2008,2008,Wisconsin,55,Female,F,135,2842268,4.7
+2008,2008,Wisconsin,55,Male,M,234,2798728,8.4
+2008,2008,Wyoming,56,Female,F,19,267982,Unreliable
+2008,2008,Wyoming,56,Male,M,21,278061,7.6
+2009,2009,Alabama,01,Female,F,88,2448159,3.6
+2009,2009,Alabama,01,Male,M,118,2309779,5.1
+2009,2009,Alaska,02,Female,F,34,337002,10.1
+2009,2009,Alaska,02,Male,M,56,361893,15.5
+2009,2009,Arizona,04,Female,F,232,3189908,7.3
+2009,2009,Arizona,04,Male,M,373,3153246,11.8
+2009,2009,Arkansas,05,Female,F,83,1475013,5.6
+2009,2009,Arkansas,05,Male,M,118,1421830,8.3
+2009,2009,California,06,Female,F,694,18583075,3.7
+2009,2009,California,06,Male,M,1293,18378154,7.0
+2009,2009,Colorado,08,Female,F,139,2480710,5.6
+2009,2009,Colorado,08,Male,M,258,2491485,10.4
+2009,2009,Connecticut,09,Female,F,58,1828779,3.2
+2009,2009,Connecticut,09,Male,M,158,1733028,9.1
+2009,2009,Delaware,10,Female,F,34,459795,7.4
+2009,2009,Delaware,10,Male,M,47,431935,10.9
+2009,2009,District of Columbia,11,Female,F,0,311828,Unreliable
+2009,2009,District of Columbia,11,Male,M,13,280400,Unreliable
+2009,2009,Florida,12,Female,F,564,9534289,5.9
+2009,2009,Florida,12,Male,M,1026,9118355,11.3
+2009,2009,Georgia,13,Female,F,189,4917756,3.8
+2009,2009,Georgia,13,Male,M,301,4703090,6.4
+2009,2009,Hawaii,15,Female,F,18,673075,Unreliable
+2009,2009,Hawaii,15,Male,M,39,673642,5.8
+2009,2009,Idaho,16,Female,F,33,775398,4.3
+2009,2009,Idaho,16,Male,M,29,779041,3.7
+2009,2009,Illinois,17,Female,F,238,6520723,3.6
+2009,2009,Illinois,17,Male,M,648,6276055,10.3
+2009,2009,Indiana,18,Female,F,110,3281477,3.4
+2009,2009,Indiana,18,Male,M,209,3177848,6.6
+2009,2009,Iowa,19,Female,F,53,1532739,3.5
+2009,2009,Iowa,19,Male,M,88,1500131,5.9
+2009,2009,Kansas,20,Female,F,61,1428139,4.3
+2009,2009,Kansas,20,Male,M,87,1404565,6.2
+2009,2009,Kentucky,21,Female,F,144,2193136,6.6
+2009,2009,Kentucky,21,Male,M,290,2123938,13.7
+2009,2009,Louisiana,22,Female,F,37,2295199,1.6
+2009,2009,Louisiana,22,Male,M,85,2196449,3.9
+2009,2009,Maine,23,Female,F,42,678694,6.2
+2009,2009,Maine,23,Male,M,72,650896,11.1
+2009,2009,Maryland,24,Female,F,160,2960001,5.4
+2009,2009,Maryland,24,Male,M,426,2770387,15.4
+2009,2009,Massachusetts,25,Female,F,190,3365859,5.6
+2009,2009,Massachusetts,25,Male,M,432,3151754,13.7
+2009,2009,Michigan,26,Female,F,241,5044338,4.8
+2009,2009,Michigan,26,Male,M,495,4857253,10.2
+2009,2009,Minnesota,27,Female,F,93,2659958,3.5
+2009,2009,Minnesota,27,Male,M,179,2621245,6.8
+2009,2009,Mississippi,28,Female,F,35,1522000,2.3
+2009,2009,Mississippi,28,Male,M,61,1436774,4.2
+2009,2009,Missouri,29,Female,F,170,3042021,5.6
+2009,2009,Missouri,29,Male,M,356,2919067,12.2
+2009,2009,Montana,30,Female,F,37,490122,7.5
+2009,2009,Montana,30,Male,M,52,493860,10.5
+2009,2009,Nebraska,31,Female,F,33,913619,3.6
+2009,2009,Nebraska,31,Male,M,33,899064,3.7
+2009,2009,Nevada,32,Female,F,198,1327618,14.9
+2009,2009,Nevada,32,Male,M,241,1357047,17.8
+2009,2009,New Hampshire,33,Female,F,39,666875,5.8
+2009,2009,New Hampshire,33,Male,M,87,649227,13.4
+2009,2009,New Jersey,34,Female,F,11,4493506,Unreliable
+2009,2009,New Jersey,34,Male,M,44,4262096,1.0
+2009,2009,New Mexico,35,Female,F,55,1031238,5.3
+2009,2009,New Mexico,35,Male,M,145,1005564,14.4
+2009,2009,New York,36,Female,F,340,9966620,3.4
+2009,2009,New York,36,Male,M,718,9340446,7.7
+2009,2009,North Carolina,37,Female,F,338,4846501,7.0
+2009,2009,North Carolina,37,Male,M,519,4603065,11.3
+2009,2009,North Dakota,38,Female,F,Suppressed,329674,Suppressed
+2009,2009,North Dakota,38,Male,M,10,335294,Unreliable
+2009,2009,Ohio,39,Female,F,236,5902018,4.0
+2009,2009,Ohio,39,Male,M,428,5626878,7.6
+2009,2009,Oklahoma,40,Female,F,251,1878034,13.4
+2009,2009,Oklahoma,40,Male,M,317,1839538,17.2
+2009,2009,Oregon,41,Female,F,145,1923209,7.5
+2009,2009,Oregon,41,Male,M,223,1885391,11.8
+2009,2009,Pennsylvania,42,Female,F,189,6497024,2.9
+2009,2009,Pennsylvania,42,Male,M,448,6169834,7.3
+2009,2009,Rhode Island,44,Female,F,35,544764,6.4
+2009,2009,Rhode Island,44,Male,M,80,508882,15.7
+2009,2009,South Carolina,45,Female,F,110,2357030,4.7
+2009,2009,South Carolina,45,Male,M,128,2232842,5.7
+2009,2009,South Dakota,46,Female,F,14,403198,Unreliable
+2009,2009,South Dakota,46,Male,M,21,403869,5.2
+2009,2009,Tennessee,47,Female,F,231,3231769,7.1
+2009,2009,Tennessee,47,Male,M,304,3074250,9.9
+2009,2009,Texas,48,Female,F,405,12500150,3.2
+2009,2009,Texas,48,Male,M,746,12301611,6.1
+2009,2009,Utah,49,Female,F,146,1355509,10.8
+2009,2009,Utah,49,Male,M,224,1367912,16.4
+2009,2009,Vermont,50,Female,F,Suppressed,317128,Suppressed
+2009,2009,Vermont,50,Male,M,32,307689,10.4
+2009,2009,Virginia,51,Female,F,179,4037895,4.4
+2009,2009,Virginia,51,Male,M,298,3888042,7.7
+2009,2009,Washington,53,Female,F,310,3343920,9.3
+2009,2009,Washington,53,Male,M,398,3323506,12.0
+2009,2009,West Virginia,54,Female,F,69,937434,7.4
+2009,2009,West Virginia,54,Male,M,115,910341,12.6
+2009,2009,Wisconsin,55,Female,F,155,2856103,5.4
+2009,2009,Wisconsin,55,Male,M,242,2813161,8.6
+2009,2009,Wyoming,56,Female,F,Suppressed,274046,Suppressed
+2009,2009,Wyoming,56,Male,M,25,285805,8.7
+2010,2010,Alabama,01,Female,F,70,2459548,2.8
+2010,2010,Alabama,01,Male,M,117,2320188,5.0
+2010,2010,Alaska,02,Female,F,30,340603,8.8
+2010,2010,Alaska,02,Male,M,32,369628,8.7
+2010,2010,Arizona,04,Female,F,254,3216194,7.9
+2010,2010,Arizona,04,Male,M,372,3175823,11.7
+2010,2010,Arkansas,05,Female,F,88,1484281,5.9
+2010,2010,Arkansas,05,Male,M,101,1431637,7.1
+2010,2010,California,06,Female,F,704,18736126,3.8
+2010,2010,California,06,Male,M,1225,18517830,6.6
+2010,2010,Colorado,08,Female,F,126,2508534,5.0
+2010,2010,Colorado,08,Male,M,178,2520662,7.1
+2010,2010,Connecticut,09,Female,F,69,1834483,3.8
+2010,2010,Connecticut,09,Male,M,154,1739614,8.9
+2010,2010,Delaware,10,Female,F,45,462995,9.7
+2010,2010,Delaware,10,Male,M,58,434939,13.3
+2010,2010,District of Columbia,11,Female,F,Suppressed,317501,Suppressed
+2010,2010,District of Columbia,11,Male,M,26,284222,9.1
+2010,2010,Florida,12,Female,F,570,9611955,5.9
+2010,2010,Florida,12,Male,M,1104,9189355,12.0
+2010,2010,Georgia,13,Female,F,223,4958482,4.5
+2010,2010,Georgia,13,Male,M,311,4729171,6.6
+2010,2010,Hawaii,15,Female,F,22,679058,3.2
+2010,2010,Hawaii,15,Male,M,52,681243,7.6
+2010,2010,Idaho,16,Female,F,40,782258,5.1
+2010,2010,Idaho,16,Male,M,39,785324,5.0
+2010,2010,Illinois,17,Female,F,271,6538356,4.1
+2010,2010,Illinois,17,Male,M,596,6292276,9.5
+2010,2010,Indiana,18,Female,F,99,3294065,3.0
+2010,2010,Indiana,18,Male,M,190,3189737,6.0
+2010,2010,Iowa,19,Female,F,61,1538036,4.0
+2010,2010,Iowa,19,Male,M,86,1508319,5.7
+2010,2010,Kansas,20,Female,F,36,1437710,2.5
+2010,2010,Kansas,20,Male,M,68,1415408,4.8
+2010,2010,Kentucky,21,Female,F,195,2204415,8.8
+2010,2010,Kentucky,21,Male,M,396,2134952,18.5
+2010,2010,Louisiana,22,Female,F,50,2314080,2.2
+2010,2010,Louisiana,22,Male,M,73,2219292,3.3
+2010,2010,Maine,23,Female,F,30,678305,4.4
+2010,2010,Maine,23,Male,M,60,650056,9.2
+2010,2010,Maryland,24,Female,F,181,2981790,6.1
+2010,2010,Maryland,24,Male,M,328,2791762,11.7
+2010,2010,Massachusetts,25,Female,F,173,3381001,5.1
+2010,2010,Massachusetts,25,Male,M,376,3166628,11.9
+2010,2010,Michigan,26,Female,F,253,5035526,5.0
+2010,2010,Michigan,26,Male,M,442,4848114,9.1
+2010,2010,Minnesota,27,Female,F,99,2671793,3.7
+2010,2010,Minnesota,27,Male,M,136,2632132,5.2
+2010,2010,Mississippi,28,Female,F,47,1526057,3.1
+2010,2010,Mississippi,28,Male,M,53,1441240,3.7
+2010,2010,Missouri,29,Female,F,192,3055450,6.3
+2010,2010,Missouri,29,Male,M,407,2933477,13.9
+2010,2010,Montana,30,Female,F,26,492748,5.3
+2010,2010,Montana,30,Male,M,28,496667,5.6
+2010,2010,Nebraska,31,Female,F,28,920045,3.0
+2010,2010,Nebraska,31,Male,M,30,906296,3.3
+2010,2010,Nevada,32,Female,F,197,1336935,14.7
+2010,2010,Nevada,32,Male,M,242,1363616,17.7
+2010,2010,New Hampshire,33,Female,F,40,667076,6.0
+2010,2010,New Hampshire,33,Male,M,76,649394,11.7
+2010,2010,New Jersey,34,Female,F,118,4512294,2.6
+2010,2010,New Jersey,34,Male,M,255,4279600,6.0
+2010,2010,New Mexico,35,Female,F,55,1041758,5.3
+2010,2010,New Mexico,35,Male,M,136,1017421,13.4
+2010,2010,New York,36,Female,F,346,10000955,3.5
+2010,2010,New York,36,Male,M,728,9377147,7.8
+2010,2010,North Carolina,37,Female,F,295,4889991,6.0
+2010,2010,North Carolina,37,Male,M,481,4645492,10.4
+2010,2010,North Dakota,38,Female,F,Suppressed,332727,Suppressed
+2010,2010,North Dakota,38,Male,M,10,339864,Unreliable
+2010,2010,Ohio,39,Female,F,399,5904348,6.8
+2010,2010,Ohio,39,Male,M,725,5632156,12.9
+2010,2010,Oklahoma,40,Female,F,206,1894374,10.9
+2010,2010,Oklahoma,40,Male,M,304,1856977,16.4
+2010,2010,Oregon,41,Female,F,125,1935072,6.5
+2010,2010,Oregon,41,Male,M,207,1896002,10.9
+2010,2010,Pennsylvania,42,Female,F,193,6512016,3.0
+2010,2010,Pennsylvania,42,Male,M,436,6190363,7.0
+2010,2010,Rhode Island,44,Female,F,36,544167,6.6
+2010,2010,Rhode Island,44,Male,M,75,508400,14.8
+2010,2010,South Carolina,45,Female,F,117,2375263,4.9
+2010,2010,South Carolina,45,Male,M,154,2250101,6.8
+2010,2010,South Dakota,46,Female,F,13,406799,Unreliable
+2010,2010,South Dakota,46,Male,M,19,407381,Unreliable
+2010,2010,Tennessee,47,Female,F,237,3252601,7.3
+2010,2010,Tennessee,47,Male,M,396,3093504,12.8
+2010,2010,Texas,48,Female,F,429,12673281,3.4
+2010,2010,Texas,48,Male,M,694,12472280,5.6
+2010,2010,Utah,49,Female,F,131,1375568,9.5
+2010,2010,Utah,49,Male,M,205,1388317,14.8
+2010,2010,Vermont,50,Female,F,18,317535,Unreliable
+2010,2010,Vermont,50,Male,M,25,308206,8.1
+2010,2010,Virginia,51,Female,F,154,4075041,3.8
+2010,2010,Virginia,51,Male,M,235,3925983,6.0
+2010,2010,Washington,53,Female,F,260,3374833,7.7
+2010,2010,Washington,53,Male,M,368,3349707,11.0
+2010,2010,West Virginia,54,Female,F,180,939408,19.2
+2010,2010,West Virginia,54,Male,M,271,913586,29.7
+2010,2010,Wisconsin,55,Female,F,165,2864586,5.8
+2010,2010,Wisconsin,55,Male,M,250,2822400,8.9
+2010,2010,Wyoming,56,Female,F,22,276189,8.0
+2010,2010,Wyoming,56,Male,M,25,287437,8.7
+2011,2011,Alabama,01,Female,F,75,2473249,3.0
+2011,2011,Alabama,01,Male,M,101,2329491,4.3
+2011,2011,Alaska,02,Female,F,21,347526,6.0
+2011,2011,Alaska,02,Male,M,45,375192,12.0
+2011,2011,Arizona,04,Female,F,224,3258634,6.9
+2011,2011,Arizona,04,Male,M,338,3223871,10.5
+2011,2011,Arkansas,05,Female,F,59,1495200,3.9
+2011,2011,Arkansas,05,Male,M,110,1442779,7.6
+2011,2011,California,06,Female,F,658,18943585,3.5
+2011,2011,California,06,Male,M,1280,18748327,6.8
+2011,2011,Colorado,08,Female,F,169,2549601,6.6
+2011,2011,Colorado,08,Male,M,249,2567195,9.7
+2011,2011,Connecticut,09,Female,F,59,1835893,3.2
+2011,2011,Connecticut,09,Male,M,150,1744816,8.6
+2011,2011,Delaware,10,Female,F,51,467299,10.9
+2011,2011,Delaware,10,Male,M,62,439836,14.1
+2011,2011,District of Columbia,11,Female,F,19,325775,Unreliable
+2011,2011,District of Columbia,11,Male,M,32,292221,11.0
+2011,2011,Florida,12,Female,F,586,9736166,6.0
+2011,2011,Florida,12,Male,M,990,9321376,10.6
+2011,2011,Georgia,13,Female,F,233,5012403,4.6
+2011,2011,Georgia,13,Male,M,302,4802807,6.3
+2011,2011,Hawaii,15,Female,F,24,685005,3.5
+2011,2011,Hawaii,15,Male,M,53,689805,7.7
+2011,2011,Idaho,16,Female,F,33,791358,4.2
+2011,2011,Idaho,16,Male,M,44,793627,5.5
+2011,2011,Illinois,17,Female,F,255,6555063,3.9
+2011,2011,Illinois,17,Male,M,652,6314194,10.3
+2011,2011,Indiana,18,Female,F,137,3309937,4.1
+2011,2011,Indiana,18,Male,M,219,3206985,6.8
+2011,2011,Iowa,19,Female,F,75,1544894,4.9
+2011,2011,Iowa,19,Male,M,97,1517415,6.4
+2011,2011,Kansas,20,Female,F,49,1445436,3.4
+2011,2011,Kansas,20,Male,M,69,1425802,4.8
+2011,2011,Kentucky,21,Female,F,241,2219482,10.9
+2011,2011,Kentucky,21,Male,M,428,2149874,19.9
+2011,2011,Louisiana,22,Female,F,54,2336467,2.3
+2011,2011,Louisiana,22,Male,M,62,2238369,2.8
+2011,2011,Maine,23,Female,F,29,678125,4.3
+2011,2011,Maine,23,Male,M,56,650063,8.6
+2011,2011,Maryland,24,Female,F,185,3007715,6.2
+2011,2011,Maryland,24,Male,M,361,2820574,12.8
+2011,2011,Massachusetts,25,Female,F,201,3397995,5.9
+2011,2011,Massachusetts,25,Male,M,454,3189541,14.2
+2011,2011,Michigan,26,Female,F,254,5030242,5.0
+2011,2011,Michigan,26,Male,M,460,4845945,9.5
+2011,2011,Minnesota,27,Female,F,105,2689958,3.9
+2011,2011,Minnesota,27,Male,M,181,2654903,6.8
+2011,2011,Mississippi,28,Female,F,43,1531968,2.8
+2011,2011,Mississippi,28,Male,M,36,1446544,2.5
+2011,2011,Missouri,29,Female,F,201,3066254,6.6
+2011,2011,Missouri,29,Male,M,394,2944434,13.4
+2011,2011,Montana,30,Female,F,31,496966,6.2
+2011,2011,Montana,30,Male,M,32,501233,6.4
+2011,2011,Nebraska,31,Female,F,25,927392,2.7
+2011,2011,Nebraska,31,Male,M,28,915249,3.1
+2011,2011,Nevada,32,Female,F,181,1348764,13.4
+2011,2011,Nevada,32,Male,M,280,1374558,20.4
+2011,2011,New Hampshire,33,Female,F,57,667341,8.5
+2011,2011,New Hampshire,33,Male,M,97,650853,14.9
+2011,2011,New Jersey,34,Female,F,132,4520963,2.9
+2011,2011,New Jersey,34,Male,M,322,4300192,7.5
+2011,2011,New Mexico,35,Female,F,80,1052114,7.6
+2011,2011,New Mexico,35,Male,M,163,1030110,15.8
+2011,2011,New York,36,Female,F,437,10033393,4.4
+2011,2011,New York,36,Male,M,919,9431804,9.7
+2011,2011,North Carolina,37,Female,F,331,4952679,6.7
+2011,2011,North Carolina,37,Male,M,491,4703722,10.4
+2011,2011,North Dakota,38,Female,F,Suppressed,337662,Suppressed
+2011,2011,North Dakota,38,Male,M,Suppressed,346270,Suppressed
+2011,2011,Ohio,39,Female,F,467,5905599,7.9
+2011,2011,Ohio,39,Male,M,805,5639352,14.3
+2011,2011,Oklahoma,40,Female,F,213,1913759,11.1
+2011,2011,Oklahoma,40,Male,M,270,1877749,14.4
+2011,2011,Oregon,41,Female,F,148,1955239,7.6
+2011,2011,Oregon,41,Male,M,244,1916620,12.7
+2011,2011,Pennsylvania,42,Female,F,248,6528324,3.8
+2011,2011,Pennsylvania,42,Male,M,504,6214562,8.1
+2011,2011,Rhode Island,44,Female,F,57,543055,10.5
+2011,2011,Rhode Island,44,Male,M,85,508247,16.7
+2011,2011,South Carolina,45,Female,F,100,2402602,4.2
+2011,2011,South Carolina,45,Male,M,143,2276628,6.3
+2011,2011,South Dakota,46,Female,F,18,410905,Unreliable
+2011,2011,South Dakota,46,Male,M,16,413177,Unreliable
+2011,2011,Tennessee,47,Female,F,272,3282422,8.3
+2011,2011,Tennessee,47,Male,M,361,3120931,11.6
+2011,2011,Texas,48,Female,F,397,12932239,3.1
+2011,2011,Texas,48,Male,M,781,12742442,6.1
+2011,2011,Utah,49,Female,F,167,1401715,11.9
+2011,2011,Utah,49,Male,M,214,1415507,15.1
+2011,2011,Vermont,50,Female,F,29,317581,9.1
+2011,2011,Vermont,50,Male,M,26,308850,8.4
+2011,2011,Virginia,51,Female,F,224,4120439,5.4
+2011,2011,Virginia,51,Male,M,351,3976165,8.8
+2011,2011,Washington,53,Female,F,300,3420356,8.8
+2011,2011,Washington,53,Male,M,397,3409682,11.6
+2011,2011,West Virginia,54,Female,F,196,940283,20.8
+2011,2011,West Virginia,54,Male,M,354,915081,38.7
+2011,2011,Wisconsin,55,Female,F,156,2875675,5.4
+2011,2011,Wisconsin,55,Male,M,317,2836092,11.2
+2011,2011,Wyoming,56,Female,F,16,278401,Unreliable
+2011,2011,Wyoming,56,Male,M,27,289757,9.3
+2012,2012,Alabama,01,Female,F,60,2483466,2.4
+2012,2012,Alabama,01,Male,M,105,2338557,4.5
+2012,2012,Alaska,02,Female,F,31,350211,8.9
+2012,2012,Alaska,02,Male,M,50,381238,13.1
+2012,2012,Arizona,04,Female,F,214,3294772,6.5
+2012,2012,Arizona,04,Male,M,312,3258483,9.6
+2012,2012,Arkansas,05,Female,F,80,1500641,5.3
+2012,2012,Arkansas,05,Male,M,89,1448490,6.1
+2012,2012,California,06,Female,F,596,19122866,3.1
+2012,2012,California,06,Male,M,1123,18918564,5.9
+2012,2012,Colorado,08,Female,F,177,2583877,6.9
+2012,2012,Colorado,08,Male,M,230,2603705,8.8
+2012,2012,Connecticut,09,Female,F,53,1840431,2.9
+2012,2012,Connecticut,09,Male,M,148,1749916,8.5
+2012,2012,Delaware,10,Female,F,30,472734,6.3
+2012,2012,Delaware,10,Male,M,52,444358,11.7
+2012,2012,District of Columbia,11,Female,F,18,333282,Unreliable
+2012,2012,District of Columbia,11,Male,M,26,299041,8.7
+2012,2012,Florida,12,Female,F,535,9869741,5.4
+2012,2012,Florida,12,Male,M,791,9447827,8.4
+2012,2012,Georgia,13,Female,F,221,5068921,4.4
+2012,2012,Georgia,13,Male,M,315,4851024,6.5
+2012,2012,Hawaii,15,Female,F,22,690348,3.2
+2012,2012,Hawaii,15,Male,M,40,701965,5.7
+2012,2012,Idaho,16,Female,F,25,797116,3.1
+2012,2012,Idaho,16,Male,M,34,798612,4.3
+2012,2012,Illinois,17,Female,F,311,6555800,4.7
+2012,2012,Illinois,17,Male,M,840,6319455,13.3
+2012,2012,Indiana,18,Female,F,120,3319144,3.6
+2012,2012,Indiana,18,Male,M,255,3218190,7.9
+2012,2012,Iowa,19,Female,F,73,1549698,4.7
+2012,2012,Iowa,19,Male,M,98,1524488,6.4
+2012,2012,Kansas,20,Female,F,66,1450624,4.5
+2012,2012,Kansas,20,Male,M,105,1435281,7.3
+2012,2012,Kentucky,21,Female,F,260,2222704,11.7
+2012,2012,Kentucky,21,Male,M,413,2157711,19.1
+2012,2012,Louisiana,22,Female,F,57,2349843,2.4
+2012,2012,Louisiana,22,Male,M,112,2252050,5.0
+2012,2012,Maine,23,Female,F,32,678914,4.7
+2012,2012,Maine,23,Male,M,68,650278,10.5
+2012,2012,Maryland,24,Female,F,214,3034160,7.1
+2012,2012,Maryland,24,Male,M,443,2850403,15.5
+2012,2012,Massachusetts,25,Female,F,214,3425771,6.2
+2012,2012,Massachusetts,25,Male,M,477,3220373,14.8
+2012,2012,Michigan,26,Female,F,260,5032849,5.2
+2012,2012,Michigan,26,Male,M,425,4850511,8.8
+2012,2012,Minnesota,27,Female,F,118,2706970,4.4
+2012,2012,Minnesota,27,Male,M,172,2672169,6.4
+2012,2012,Mississippi,28,Female,F,53,1535635,3.5
+2012,2012,Mississippi,28,Male,M,58,1449291,4.0
+2012,2012,Missouri,29,Female,F,189,3070952,6.2
+2012,2012,Missouri,29,Male,M,350,2951036,11.9
+2012,2012,Montana,30,Female,F,18,500192,Unreliable
+2012,2012,Montana,30,Male,M,33,504949,6.5
+2012,2012,Nebraska,31,Female,F,24,933223,2.6
+2012,2012,Nebraska,31,Male,M,29,922302,3.1
+2012,2012,Nevada,32,Female,F,212,1367724,15.5
+2012,2012,Nevada,32,Male,M,234,1391207,16.8
+2012,2012,New Hampshire,33,Female,F,54,668481,8.1
+2012,2012,New Hampshire,33,Male,M,79,652237,12.1
+2012,2012,New Jersey,34,Female,F,167,4540905,3.7
+2012,2012,New Jersey,34,Male,M,435,4323685,10.1
+2012,2012,New Mexico,35,Female,F,121,1052831,11.5
+2012,2012,New Mexico,35,Male,M,198,1032707,19.2
+2012,2012,New York,36,Female,F,453,10081044,4.5
+2012,2012,New York,36,Male,M,1077,9489217,11.3
+2012,2012,North Carolina,37,Female,F,315,4999175,6.3
+2012,2012,North Carolina,37,Male,M,518,4752898,10.9
+2012,2012,North Dakota,38,Female,F,Suppressed,343886,Suppressed
+2012,2012,North Dakota,38,Male,M,Suppressed,355742,Suppressed
+2012,2012,Ohio,39,Female,F,472,5901605,8.0
+2012,2012,Ohio,39,Male,M,883,5642620,15.6
+2012,2012,Oklahoma,40,Female,F,265,1924995,13.8
+2012,2012,Oklahoma,40,Male,M,266,1889825,14.1
+2012,2012,Oregon,41,Female,F,156,1968641,7.9
+2012,2012,Oregon,41,Male,M,205,1930712,10.6
+2012,2012,Pennsylvania,42,Female,F,271,6533359,4.1
+2012,2012,Pennsylvania,42,Male,M,556,6230177,8.9
+2012,2012,Rhode Island,44,Female,F,38,542016,7.0
+2012,2012,Rhode Island,44,Male,M,102,508276,20.1
+2012,2012,South Carolina,45,Female,F,105,2426510,4.3
+2012,2012,South Carolina,45,Male,M,132,2297213,5.7
+2012,2012,South Dakota,46,Female,F,11,415038,Unreliable
+2012,2012,South Dakota,46,Male,M,13,418316,Unreliable
+2012,2012,Tennessee,47,Female,F,311,3307480,9.4
+2012,2012,Tennessee,47,Male,M,412,3148763,13.1
+2012,2012,Texas,48,Female,F,358,13111469,2.7
+2012,2012,Texas,48,Male,M,773,12947734,6.0
+2012,2012,Utah,49,Female,F,166,1419427,11.7
+2012,2012,Utah,49,Male,M,256,1435860,17.8
+2012,2012,Vermont,50,Female,F,20,317233,6.3
+2012,2012,Vermont,50,Male,M,35,308778,11.3
+2012,2012,Virginia,51,Female,F,215,4164342,5.2
+2012,2012,Virginia,51,Male,M,318,4021525,7.9
+2012,2012,Washington,53,Female,F,273,3455462,7.9
+2012,2012,Washington,53,Male,M,422,3441550,12.3
+2012,2012,West Virginia,54,Female,F,183,940008,19.5
+2012,2012,West Virginia,54,Male,M,285,915405,31.1
+2012,2012,Wisconsin,55,Female,F,167,2883326,5.8
+2012,2012,Wisconsin,55,Male,M,316,2843072,11.1
+2012,2012,Wyoming,56,Female,F,23,282131,8.2
+2012,2012,Wyoming,56,Male,M,22,294281,7.5
+2013,2013,Alabama,01,Female,F,62,2488375,2.5
+2013,2013,Alabama,01,Male,M,104,2345347,4.4
+2013,2013,Alaska,02,Female,F,21,349564,6.0
+2013,2013,Alaska,02,Male,M,48,385568,12.4
+2013,2013,Arizona,04,Female,F,211,3331505,6.3
+2013,2013,Arizona,04,Male,M,316,3295119,9.6
+2013,2013,Arkansas,05,Female,F,77,1505782,5.1
+2013,2013,Arkansas,05,Male,M,85,1453591,5.8
+2013,2013,California,06,Female,F,663,19268325,3.4
+2013,2013,California,06,Male,M,1285,19064196,6.7
+2013,2013,Colorado,08,Female,F,174,2621921,6.6
+2013,2013,Colorado,08,Male,M,259,2646446,9.8
+2013,2013,Connecticut,09,Female,F,134,1841929,7.3
+2013,2013,Connecticut,09,Male,M,305,1754151,17.4
+2013,2013,Delaware,10,Female,F,35,477802,7.3
+2013,2013,Delaware,10,Male,M,78,447947,17.4
+2013,2013,District of Columbia,11,Female,F,16,340199,Unreliable
+2013,2013,District of Columbia,11,Male,M,44,306250,14.4
+2013,2013,Florida,12,Female,F,501,9990213,5.0
+2013,2013,Florida,12,Male,M,767,9562647,8.0
+2013,2013,Georgia,13,Female,F,213,5110806,4.2
+2013,2013,Georgia,13,Male,M,317,4881361,6.5
+2013,2013,Hawaii,15,Female,F,23,694440,3.3
+2013,2013,Hawaii,15,Male,M,46,709614,6.5
+2013,2013,Idaho,16,Female,F,39,805052,4.8
+2013,2013,Idaho,16,Male,M,38,807084,4.7
+2013,2013,Illinois,17,Female,F,302,6555652,4.6
+2013,2013,Illinois,17,Male,M,770,6326483,12.2
+2013,2013,Indiana,18,Female,F,110,3334634,3.3
+2013,2013,Indiana,18,Male,M,250,3236268,7.7
+2013,2013,Iowa,19,Female,F,93,1557015,6.0
+2013,2013,Iowa,19,Male,M,86,1533401,5.6
+2013,2013,Kansas,20,Female,F,72,1452009,5.0
+2013,2013,Kansas,20,Male,M,86,1441948,6.0
+2013,2013,Kentucky,21,Female,F,235,2231899,10.5
+2013,2013,Kentucky,21,Male,M,430,2163396,19.9
+2013,2013,Louisiana,22,Female,F,87,2361537,3.7
+2013,2013,Louisiana,22,Male,M,178,2263933,7.9
+2013,2013,Maine,23,Female,F,46,678082,6.8
+2013,2013,Maine,23,Male,M,79,650220,12.1
+2013,2013,Maryland,24,Female,F,247,3054052,8.1
+2013,2013,Maryland,24,Male,M,502,2874762,17.5
+2013,2013,Massachusetts,25,Female,F,272,3448008,7.9
+2013,2013,Massachusetts,25,Male,M,616,3244816,19.0
+2013,2013,Michigan,26,Female,F,329,5036338,6.5
+2013,2013,Michigan,26,Male,M,580,4859284,11.9
+2013,2013,Minnesota,27,Female,F,107,2727081,3.9
+2013,2013,Minnesota,27,Male,M,198,2693299,7.4
+2013,2013,Mississippi,28,Female,F,56,1536620,3.6
+2013,2013,Mississippi,28,Male,M,44,1454587,3.0
+2013,2013,Missouri,29,Female,F,229,3080214,7.4
+2013,2013,Missouri,29,Male,M,391,2963957,13.2
+2013,2013,Montana,30,Female,F,34,505367,6.7
+2013,2013,Montana,30,Male,M,33,509798,6.5
+2013,2013,Nebraska,31,Female,F,21,938690,2.2
+2013,2013,Nebraska,31,Male,M,20,929826,2.2
+2013,2013,Nevada,32,Female,F,182,1384702,13.1
+2013,2013,Nevada,32,Male,M,216,1405434,15.4
+2013,2013,New Hampshire,33,Female,F,45,669746,6.7
+2013,2013,New Hampshire,33,Male,M,112,653713,17.1
+2013,2013,New Jersey,34,Female,F,209,4555374,4.6
+2013,2013,New Jersey,34,Male,M,466,4343965,10.7
+2013,2013,New Mexico,35,Female,F,119,1051678,11.3
+2013,2013,New Mexico,35,Male,M,203,1033609,19.6
+2013,2013,New York,36,Female,F,500,10114934,4.9
+2013,2013,New York,36,Male,M,1181,9536193,12.4
+2013,2013,North Carolina,37,Female,F,329,5047448,6.5
+2013,2013,North Carolina,37,Male,M,505,4800612,10.5
+2013,2013,North Dakota,38,Female,F,Suppressed,353392,Suppressed
+2013,2013,North Dakota,38,Male,M,Suppressed,370001,Suppressed
+2013,2013,Ohio,39,Female,F,529,5911149,8.9
+2013,2013,Ohio,39,Male,M,1101,5659659,19.5
+2013,2013,Oklahoma,40,Female,F,243,1943276,12.5
+2013,2013,Oklahoma,40,Male,M,268,1907292,14.1
+2013,2013,Oregon,41,Female,F,136,1985655,6.8
+2013,2013,Oregon,41,Male,M,165,1944410,8.5
+2013,2013,Pennsylvania,42,Female,F,308,6531461,4.7
+2013,2013,Pennsylvania,42,Male,M,650,6242340,10.4
+2013,2013,Rhode Island,44,Female,F,52,542084,9.6
+2013,2013,Rhode Island,44,Male,M,138,509427,27.1
+2013,2013,South Carolina,45,Female,F,110,2451720,4.5
+2013,2013,South Carolina,45,Male,M,137,2323119,5.9
+2013,2013,South Dakota,46,Female,F,18,420499,Unreliable
+2013,2013,South Dakota,46,Male,M,16,424378,Unreliable
+2013,2013,Tennessee,47,Female,F,350,3328884,10.5
+2013,2013,Tennessee,47,Male,M,417,3167094,13.2
+2013,2013,Texas,48,Female,F,386,13301191,2.9
+2013,2013,Texas,48,Male,M,667,13147002,5.1
+2013,2013,Utah,49,Female,F,172,1441891,11.9
+2013,2013,Utah,49,Male,M,260,1458981,17.8
+2013,2013,Vermont,50,Female,F,26,317442,8.2
+2013,2013,Vermont,50,Male,M,44,309188,14.2
+2013,2013,Virginia,51,Female,F,241,4198203,5.7
+2013,2013,Virginia,51,Male,M,399,4062202,9.8
+2013,2013,Washington,53,Female,F,281,3488736,8.1
+2013,2013,Washington,53,Male,M,359,3482670,10.3
+2013,2013,West Virginia,54,Female,F,173,938728,18.4
+2013,2013,West Virginia,54,Male,M,317,915576,34.6
+2013,2013,Wisconsin,55,Female,F,211,2890553,7.3
+2013,2013,Wisconsin,55,Male,M,388,2852160,13.6
+2013,2013,Wyoming,56,Female,F,22,285380,7.7
+2013,2013,Wyoming,56,Male,M,26,297278,8.7
+2014,2014,Alabama,01,Female,F,110,2499410,4.4
+2014,2014,Alabama,01,Male,M,160,2349967,6.8
+2014,2014,Alaska,02,Female,F,31,349436,8.9
+2014,2014,Alaska,02,Male,M,45,387296,11.6
+2014,2014,Arizona,04,Female,F,214,3387637,6.3
+2014,2014,Arizona,04,Male,M,375,3343847,11.2
+2014,2014,Arkansas,05,Female,F,76,1509053,5.0
+2014,2014,Arkansas,05,Male,M,97,1457316,6.7
+2014,2014,California,06,Female,F,702,19533596,3.6
+2014,2014,California,06,Male,M,1322,19268904,6.9
+2014,2014,Colorado,08,Female,F,200,2664707,7.5
+2014,2014,Colorado,08,Male,M,317,2691159,11.8
+2014,2014,Connecticut,09,Female,F,168,1842128,9.1
+2014,2014,Connecticut,09,Male,M,357,1754549,20.3
+2014,2014,Delaware,10,Female,F,40,482925,8.3
+2014,2014,Delaware,10,Male,M,84,452689,18.6
+2014,2014,District of Columbia,11,Female,F,18,346293,Unreliable
+2014,2014,District of Columbia,11,Male,M,45,312600,14.4
+2014,2014,Florida,12,Female,F,534,10170011,5.3
+2014,2014,Florida,12,Male,M,865,9723286,8.9
+2014,2014,Georgia,13,Female,F,270,5170356,5.2
+2014,2014,Georgia,13,Male,M,440,4926987,8.9
+2014,2014,Hawaii,15,Female,F,25,701462,3.6
+2014,2014,Hawaii,15,Male,M,34,718099,4.7
+2014,2014,Idaho,16,Female,F,48,815968,5.9
+2014,2014,Idaho,16,Male,M,30,818496,3.7
+2014,2014,Illinois,17,Female,F,384,6559694,5.9
+2014,2014,Illinois,17,Male,M,821,6320886,13.0
+2014,2014,Indiana,18,Female,F,149,3347411,4.5
+2014,2014,Indiana,18,Male,M,313,3249444,9.6
+2014,2014,Iowa,19,Female,F,69,1564081,4.4
+2014,2014,Iowa,19,Male,M,89,1543045,5.8
+2014,2014,Kansas,20,Female,F,74,1456666,5.1
+2014,2014,Kansas,20,Male,M,99,1447355,6.8
+2014,2014,Kentucky,21,Female,F,266,2240299,11.9
+2014,2014,Kentucky,21,Male,M,463,2173158,21.3
+2014,2014,Louisiana,22,Female,F,75,2375737,3.2
+2014,2014,Louisiana,22,Male,M,185,2273939,8.1
+2014,2014,Maine,23,Female,F,55,678818,8.1
+2014,2014,Maine,23,Male,M,116,651271,17.8
+2014,2014,Maryland,24,Female,F,270,3079989,8.8
+2014,2014,Maryland,24,Male,M,651,2896418,22.5
+2014,2014,Massachusetts,25,Female,F,323,3474584,9.3
+2014,2014,Massachusetts,25,Male,M,817,3270824,25.0
+2014,2014,Michigan,26,Female,F,365,5041414,7.2
+2014,2014,Michigan,26,Male,M,687,4868463,14.1
+2014,2014,Minnesota,27,Female,F,116,2745132,4.2
+2014,2014,Minnesota,27,Male,M,202,2712041,7.4
+2014,2014,Mississippi,28,Female,F,48,1539523,3.1
+2014,2014,Mississippi,28,Male,M,67,1454556,4.6
+2014,2014,Missouri,29,Female,F,254,3089367,8.2
+2014,2014,Missouri,29,Male,M,442,2974222,14.9
+2014,2014,Montana,30,Female,F,27,509456,5.3
+2014,2014,Montana,30,Male,M,26,514123,5.1
+2014,2014,Nebraska,31,Female,F,26,944640,2.8
+2014,2014,Nebraska,31,Male,M,30,936863,3.2
+2014,2014,Nevada,32,Female,F,173,1412306,12.2
+2014,2014,Nevada,32,Male,M,202,1426793,14.2
+2014,2014,New Hampshire,33,Female,F,85,671344,12.7
+2014,2014,New Hampshire,33,Male,M,212,655469,32.3
+2014,2014,New Jersey,34,Female,F,223,4576223,4.9
+2014,2014,New Jersey,34,Male,M,505,4361952,11.6
+2014,2014,New Mexico,35,Female,F,160,1052690,15.2
+2014,2014,New Mexico,35,Male,M,242,1032882,23.4
+2014,2014,New York,36,Female,F,539,10164966,5.3
+2014,2014,New York,36,Male,M,1200,9581261,12.5
+2014,2014,North Carolina,37,Female,F,380,5099371,7.5
+2014,2014,North Carolina,37,Male,M,587,4844593,12.1
+2014,2014,North Dakota,38,Female,F,13,360463,Unreliable
+2014,2014,North Dakota,38,Male,M,18,379019,Unreliable
+2014,2014,Ohio,39,Female,F,699,5919391,11.8
+2014,2014,Ohio,39,Male,M,1407,5674772,24.8
+2014,2014,Oklahoma,40,Female,F,233,1957903,11.9
+2014,2014,Oklahoma,40,Male,M,269,1920148,14.0
+2014,2014,Oregon,41,Female,F,144,2006139,7.2
+2014,2014,Oregon,41,Male,M,196,1964100,10.0
+2014,2014,Pennsylvania,42,Female,F,348,6533392,5.3
+2014,2014,Pennsylvania,42,Male,M,744,6253817,11.9
+2014,2014,Rhode Island,44,Female,F,63,543810,11.6
+2014,2014,Rhode Island,44,Male,M,142,511363,27.8
+2014,2014,South Carolina,45,Female,F,226,2483088,9.1
+2014,2014,South Carolina,45,Male,M,289,2349394,12.3
+2014,2014,South Dakota,46,Female,F,18,423862,Unreliable
+2014,2014,South Dakota,46,Male,M,15,429313,Unreliable
+2014,2014,Tennessee,47,Female,F,351,3357172,10.5
+2014,2014,Tennessee,47,Male,M,512,3192180,16.0
+2014,2014,Texas,48,Female,F,431,13574572,3.2
+2014,2014,Texas,48,Male,M,720,13382386,5.4
+2014,2014,Utah,49,Female,F,187,1463152,12.8
+2014,2014,Utah,49,Male,M,268,1479750,18.1
+2014,2014,Vermont,50,Female,F,24,317713,7.6
+2014,2014,Vermont,50,Male,M,40,308849,13.0
+2014,2014,Virginia,51,Female,F,265,4231045,6.3
+2014,2014,Virginia,51,Male,M,493,4095244,12.0
+2014,2014,Washington,53,Female,F,274,3531595,7.8
+2014,2014,Washington,53,Male,M,399,3529935,11.3
+2014,2014,West Virginia,54,Female,F,195,936411,20.8
+2014,2014,West Virginia,54,Male,M,359,913915,39.3
+2014,2014,Wisconsin,55,Female,F,239,2898057,8.2
+2014,2014,Wisconsin,55,Male,M,388,2859507,13.6
+2014,2014,Wyoming,56,Female,F,20,286111,7.0
+2014,2014,Wyoming,56,Male,M,34,298042,11.4
+2015,2015,Alabama,01,Female,F,102,2505795,4.1
+2015,2015,Alabama,01,Male,M,180,2353184,7.6
+2015,2015,Alaska,02,Female,F,32,349407,9.2
+2015,2015,Alaska,02,Male,M,54,389025,13.9
+2015,2015,Arizona,04,Female,F,273,3436575,7.9
+2015,2015,Arizona,04,Male,M,398,3391490,11.7
+2015,2015,Arkansas,05,Female,F,92,1515348,6.1
+2015,2015,Arkansas,05,Male,M,111,1462856,7.6
+2015,2015,California,06,Female,F,717,19701750,3.6
+2015,2015,California,06,Male,M,1301,19443068,6.7
+2015,2015,Colorado,08,Female,F,192,2712811,7.1
+2015,2015,Colorado,08,Male,M,303,2743763,11.0
+2015,2015,Connecticut,09,Female,F,186,1839139,10.1
+2015,2015,Connecticut,09,Male,M,499,1751747,28.5
+2015,2015,Delaware,10,Female,F,46,488125,9.4
+2015,2015,Delaware,10,Male,M,87,457809,19.0
+2015,2015,District of Columbia,11,Female,F,26,353627,7.4
+2015,2015,District of Columbia,11,Male,M,72,318601,22.6
+2015,2015,Florida,12,Female,F,648,10368733,6.2
+2015,2015,Florida,12,Male,M,1190,9902539,12.0
+2015,2015,Georgia,13,Female,F,346,5234978,6.6
+2015,2015,Georgia,13,Male,M,512,4979882,10.3
+2015,2015,Hawaii,15,Female,F,19,706231,Unreliable
+2015,2015,Hawaii,15,Male,M,43,725372,5.9
+2015,2015,Idaho,16,Female,F,42,826183,5.1
+2015,2015,Idaho,16,Male,M,48,828747,5.8
+2015,2015,Illinois,17,Female,F,439,6545500,6.7
+2015,2015,Illinois,17,Male,M,942,6314495,14.9
+2015,2015,Indiana,18,Female,F,164,3357815,4.9
+2015,2015,Indiana,18,Male,M,371,3261865,11.4
+2015,2015,Iowa,19,Female,F,71,1571873,4.5
+2015,2015,Iowa,19,Male,M,99,1552026,6.4
+2015,2015,Kansas,20,Female,F,73,1458008,5.0
+2015,2015,Kansas,20,Male,M,77,1453633,5.3
+2015,2015,Kentucky,21,Female,F,322,2245998,14.3
+2015,2015,Kentucky,21,Male,M,563,2179094,25.8
+2015,2015,Louisiana,22,Female,F,102,2386915,4.3
+2015,2015,Louisiana,22,Male,M,185,2283809,8.1
+2015,2015,Maine,23,Female,F,74,678071,10.9
+2015,2015,Maine,23,Male,M,164,651257,25.2
+2015,2015,Maryland,24,Female,F,310,3095316,10.0
+2015,2015,Maryland,24,Male,M,777,2911085,26.7
+2015,2015,Massachusetts,25,Female,F,386,3498304,11.0
+2015,2015,Massachusetts,25,Male,M,1164,3296118,35.3
+2015,2015,Michigan,26,Female,F,448,5044428,8.9
+2015,2015,Michigan,26,Male,M,861,4878148,17.7
+2015,2015,Minnesota,27,Female,F,128,2759730,4.6
+2015,2015,Minnesota,27,Male,M,210,2729864,7.7
+2015,2015,Mississippi,28,Female,F,50,1540483,3.2
+2015,2015,Mississippi,28,Male,M,100,1451850,6.9
+2015,2015,Missouri,29,Female,F,257,3098627,8.3
+2015,2015,Missouri,29,Male,M,435,2985045,14.6
+2015,2015,Montana,30,Female,F,24,513619,4.7
+2015,2015,Montana,30,Male,M,24,519330,4.6
+2015,2015,Nebraska,31,Female,F,20,951022,2.1
+2015,2015,Nebraska,31,Male,M,35,945168,3.7
+2015,2015,Nevada,32,Female,F,193,1440294,13.4
+2015,2015,Nevada,32,Male,M,226,1450551,15.6
+2015,2015,New Hampshire,33,Female,F,104,672952,15.5
+2015,2015,New Hampshire,33,Male,M,276,657656,42.0
+2015,2015,New Jersey,34,Female,F,233,4585897,5.1
+2015,2015,New Jersey,34,Male,M,629,4372116,14.4
+2015,2015,New Mexico,35,Female,F,126,1051688,12.0
+2015,2015,New Mexico,35,Male,M,225,1033421,21.8
+2015,2015,New York,36,Female,F,592,10184278,5.8
+2015,2015,New York,36,Male,M,1574,9611513,16.4
+2015,2015,North Carolina,37,Female,F,439,5150777,8.5
+2015,2015,North Carolina,37,Male,M,732,4892025,15.0
+2015,2015,North Dakota,38,Female,F,13,368074,Unreliable
+2015,2015,North Dakota,38,Male,M,21,388853,5.4
+2015,2015,Ohio,39,Female,F,905,5926893,15.3
+2015,2015,Ohio,39,Male,M,1793,5686530,31.5
+2015,2015,Oklahoma,40,Female,F,200,1974214,10.1
+2015,2015,Oklahoma,40,Male,M,227,1937124,11.7
+2015,2015,Oregon,41,Female,F,135,2035807,6.6
+2015,2015,Oregon,41,Male,M,196,1993170,9.8
+2015,2015,Pennsylvania,42,Female,F,418,6538129,6.4
+2015,2015,Pennsylvania,42,Male,M,944,6264374,15.1
+2015,2015,Rhode Island,44,Female,F,75,544349,13.8
+2015,2015,Rhode Island,44,Male,M,179,511949,35.0
+2015,2015,South Carolina,45,Female,F,234,2517178,9.3
+2015,2015,South Carolina,45,Male,M,320,2378968,13.5
+2015,2015,South Dakota,46,Female,F,12,426493,Unreliable
+2015,2015,South Dakota,46,Male,M,15,431976,Unreliable
+2015,2015,Tennessee,47,Female,F,432,3382838,12.8
+2015,2015,Tennessee,47,Male,M,606,3217461,18.8
+2015,2015,Texas,48,Female,F,470,13831324,3.4
+2015,2015,Texas,48,Male,M,817,13637790,6.0
+2015,2015,Utah,49,Female,F,201,1488819,13.5
+2015,2015,Utah,49,Male,M,247,1507100,16.4
+2015,2015,Vermont,50,Female,F,25,317516,7.9
+2015,2015,Vermont,50,Male,M,54,308526,17.5
+2015,2015,Virginia,51,Female,F,276,4258228,6.5
+2015,2015,Virginia,51,Male,M,544,4124765,13.2
+2015,2015,Washington,53,Female,F,270,3585353,7.5
+2015,2015,Washington,53,Male,M,422,3584998,11.8
+2015,2015,West Virginia,54,Female,F,248,933068,26.6
+2015,2015,West Virginia,54,Male,M,381,911060,41.8
+2015,2015,Wisconsin,55,Female,F,206,2903737,7.1
+2015,2015,Wisconsin,55,Male,M,416,2867600,14.5
+2015,2015,Wyoming,56,Female,F,24,287206,8.4
+2015,2015,Wyoming,56,Male,M,22,298901,7.4
+2016,2016,Alabama,01,Female,F,125,2507714,5.0
+2016,2016,Alabama,01,Male,M,218,2355586,9.3
+2016,2016,Alaska,02,Female,F,30,353762,8.5
+2016,2016,Alaska,02,Male,M,64,388132,16.5
+2016,2016,Arizona,04,Female,F,272,3488176,7.8
+2016,2016,Arizona,04,Male,M,497,3442895,14.4
+2016,2016,Arkansas,05,Female,F,78,1520375,5.1
+2016,2016,Arkansas,05,Male,M,91,1467873,6.2
+2016,2016,California,06,Female,F,644,19756656,3.3
+2016,2016,California,06,Male,M,1368,19493361,7.0
+2016,2016,Colorado,08,Female,F,196,2754727,7.1
+2016,2016,Colorado,08,Male,M,340,2785818,12.2
+2016,2016,Connecticut,09,Female,F,229,1830837,12.5
+2016,2016,Connecticut,09,Male,M,626,1745615,35.9
+2016,2016,Delaware,10,Female,F,49,491395,10.0
+2016,2016,Delaware,10,Male,M,105,460670,22.8
+2016,2016,District of Columbia,11,Female,F,54,357940,15.1
+2016,2016,District of Columbia,11,Male,M,155,323230,48.0
+2016,2016,Florida,12,Female,F,864,10542288,8.2
+2016,2016,Florida,12,Male,M,1934,10070151,19.2
+2016,2016,Georgia,13,Female,F,361,5289906,6.8
+2016,2016,Georgia,13,Male,M,557,5020465,11.1
+2016,2016,Hawaii,15,Female,F,27,710942,3.8
+2016,2016,Hawaii,15,Male,M,50,717615,7.0
+2016,2016,Idaho,16,Female,F,38,839608,4.5
+2016,2016,Idaho,16,Male,M,81,843532,9.6
+2016,2016,Illinois,17,Female,F,542,6509748,8.3
+2016,2016,Illinois,17,Male,M,1405,6291791,22.3
+2016,2016,Indiana,18,Female,F,272,3363491,8.1
+2016,2016,Indiana,18,Male,M,522,3269562,16.0
+2016,2016,Iowa,19,Female,F,62,1575574,3.9
+2016,2016,Iowa,19,Male,M,121,1559119,7.8
+2016,2016,Kansas,20,Female,F,64,1459530,4.4
+2016,2016,Kansas,20,Male,M,82,1447759,5.7
+2016,2016,Kentucky,21,Female,F,357,2250421,15.9
+2016,2016,Kentucky,21,Male,M,632,2186553,28.9
+2016,2016,Louisiana,22,Female,F,126,2392296,5.3
+2016,2016,Louisiana,22,Male,M,220,2289370,9.6
+2016,2016,Maine,23,Female,F,92,678894,13.6
+2016,2016,Maine,23,Male,M,209,652585,32.0
+2016,2016,Maryland,24,Female,F,506,3101981,16.3
+2016,2016,Maryland,24,Male,M,1315,2914466,45.1
+2016,2016,Massachusetts,25,Female,F,539,3506128,15.4
+2016,2016,Massachusetts,25,Male,M,1451,3305651,43.9
+2016,2016,Michigan,26,Female,F,571,5043554,11.3
+2016,2016,Michigan,26,Male,M,1191,4884746,24.4
+2016,2016,Minnesota,27,Female,F,121,2772322,4.4
+2016,2016,Minnesota,27,Male,M,275,2747630,10.0
+2016,2016,Mississippi,28,Female,F,72,1539934,4.7
+2016,2016,Mississippi,28,Male,M,108,1448792,7.5
+2016,2016,Missouri,29,Female,F,305,3100965,9.8
+2016,2016,Missouri,29,Male,M,609,2992035,20.4
+2016,2016,Montana,30,Female,F,16,517745,Unreliable
+2016,2016,Montana,30,Male,M,26,524775,5.0
+2016,2016,Nebraska,31,Female,F,13,956445,Unreliable
+2016,2016,Nebraska,31,Male,M,31,950671,3.3
+2016,2016,Nevada,32,Female,F,183,1466061,12.5
+2016,2016,Nevada,32,Male,M,225,1473997,15.3
+2016,2016,New Hampshire,33,Female,F,120,673935,17.8
+2016,2016,New Hampshire,33,Male,M,317,660860,48.0
+2016,2016,New Jersey,34,Female,F,375,4576725,8.2
+2016,2016,New Jersey,34,Male,M,1034,4367744,23.7
+2016,2016,New Mexico,35,Female,F,130,1050352,12.4
+2016,2016,New Mexico,35,Male,M,219,1030663,21.2
+2016,2016,New York,36,Female,F,818,10157924,8.1
+2016,2016,New York,36,Male,M,2191,9587365,22.9
+2016,2016,North Carolina,37,Female,F,580,5213836,11.1
+2016,2016,North Carolina,37,Male,M,926,4932952,18.8
+2016,2016,North Dakota,38,Female,F,19,368978,Unreliable
+2016,2016,North Dakota,38,Male,M,35,388974,9.0
+2016,2016,Ohio,39,Female,F,1145,5922679,19.3
+2016,2016,Ohio,39,Male,M,2468,5691694,43.4
+2016,2016,Oklahoma,40,Female,F,214,1979658,10.8
+2016,2016,Oklahoma,40,Male,M,230,1943903,11.8
+2016,2016,Oregon,41,Female,F,120,2066455,5.8
+2016,2016,Oregon,41,Male,M,192,2027010,9.5
+2016,2016,Pennsylvania,42,Female,F,650,6523033,10.0
+2016,2016,Pennsylvania,42,Male,M,1585,6261194,25.3
+2016,2016,Rhode Island,44,Female,F,82,543345,15.1
+2016,2016,Rhode Island,44,Male,M,197,513081,38.4
+2016,2016,South Carolina,45,Female,F,235,2553185,9.2
+2016,2016,South Carolina,45,Male,M,393,2407934,16.3
+2016,2016,South Dakota,46,Female,F,19,429182,Unreliable
+2016,2016,South Dakota,46,Male,M,23,436272,5.3
+2016,2016,Tennessee,47,Female,F,500,3408679,14.7
+2016,2016,Tennessee,47,Male,M,686,3242515,21.2
+2016,2016,Texas,48,Female,F,499,14031164,3.6
+2016,2016,Texas,48,Male,M,876,13831432,6.3
+2016,2016,Utah,49,Female,F,182,1515323,12.0
+2016,2016,Utah,49,Male,M,284,1535894,18.5
+2016,2016,Vermont,50,Female,F,34,316128,10.8
+2016,2016,Vermont,50,Male,M,67,308466,21.7
+2016,2016,Virginia,51,Female,F,369,4274994,8.6
+2016,2016,Virginia,51,Male,M,761,4136814,18.4
+2016,2016,Washington,53,Female,F,280,3646600,7.7
+2016,2016,Washington,53,Male,M,429,3641400,11.8
+2016,2016,West Virginia,54,Female,F,232,925159,25.1
+2016,2016,West Virginia,54,Male,M,501,905943,55.3
+2016,2016,Wisconsin,55,Female,F,313,2905282,10.8
+2016,2016,Wisconsin,55,Male,M,553,2873426,19.2
+2016,2016,Wyoming,56,Female,F,27,286559,9.4
+2016,2016,Wyoming,56,Male,M,23,298942,7.7
+2017,2017,Alabama,01,Female,F,145,2514911,5.8
+2017,2017,Alabama,01,Male,M,277,2359836,11.7
+2017,2017,Alaska,02,Female,F,42,353003,11.9
+2017,2017,Alaska,02,Male,M,60,386792,15.5
+2017,2017,Arizona,04,Female,F,310,3527969,8.8
+2017,2017,Arizona,04,Male,M,618,3488301,17.7
+2017,2017,Arkansas,05,Female,F,94,1528215,6.2
+2017,2017,Arkansas,05,Male,M,94,1476064,6.4
+2017,2017,California,06,Female,F,659,19889100,3.3
+2017,2017,California,06,Male,M,1540,19647553,7.8
+2017,2017,Colorado,08,Female,F,219,2784821,7.9
+2017,2017,Colorado,08,Male,M,359,2822333,12.7
+2017,2017,Connecticut,09,Female,F,238,1836384,13.0
+2017,2017,Connecticut,09,Male,M,717,1751800,40.9
+2017,2017,Delaware,10,Female,F,72,496425,14.5
+2017,2017,Delaware,10,Male,M,178,465514,38.2
+2017,2017,District of Columbia,11,Female,F,73,364773,20.0
+2017,2017,District of Columbia,11,Male,M,171,329199,51.9
+2017,2017,Florida,12,Female,F,1002,10727581,9.3
+2017,2017,Florida,12,Male,M,2243,10256819,21.9
+2017,2017,Georgia,13,Female,F,380,5353872,7.1
+2017,2017,Georgia,13,Male,M,634,5075507,12.5
+2017,2017,Hawaii,15,Female,F,18,711451,Unreliable
+2017,2017,Hawaii,15,Male,M,35,716087,4.9
+2017,2017,Idaho,16,Female,F,45,856485,5.3
+2017,2017,Idaho,16,Male,M,58,860458,6.7
+2017,2017,Illinois,17,Female,F,631,6509545,9.7
+2017,2017,Illinois,17,Male,M,1571,6292478,25.0
+2017,2017,Indiana,18,Female,F,397,3379723,11.7
+2017,2017,Indiana,18,Male,M,779,3287095,23.7
+2017,2017,Iowa,19,Female,F,86,1580978,5.4
+2017,2017,Iowa,19,Male,M,120,1564733,7.7
+2017,2017,Kansas,20,Female,F,64,1461167,4.4
+2017,2017,Kansas,20,Male,M,80,1451956,5.5
+2017,2017,Kentucky,21,Female,F,425,2259871,18.8
+2017,2017,Kentucky,21,Male,M,735,2194318,33.5
+2017,2017,Louisiana,22,Female,F,128,2394887,5.3
+2017,2017,Louisiana,22,Male,M,287,2289446,12.5
+2017,2017,Maine,23,Female,F,90,681387,13.2
+2017,2017,Maine,23,Male,M,270,654520,41.3
+2017,2017,Maryland,24,Female,F,568,3118023,18.2
+2017,2017,Maryland,24,Male,M,1417,2934154,48.3
+2017,2017,Massachusetts,25,Female,F,457,3529454,12.9
+2017,2017,Massachusetts,25,Male,M,1456,3330365,43.7
+2017,2017,Michigan,26,Female,F,699,5058559,13.8
+2017,2017,Michigan,26,Male,M,1334,4903752,27.2
+2017,2017,Minnesota,27,Female,F,158,2799760,5.6
+2017,2017,Minnesota,27,Male,M,264,2776846,9.5
+2017,2017,Mississippi,28,Female,F,70,1538222,4.6
+2017,2017,Mississippi,28,Male,M,115,1445878,8.0
+2017,2017,Missouri,29,Female,F,310,3111296,10.0
+2017,2017,Missouri,29,Male,M,642,3002236,21.4
+2017,2017,Montana,30,Female,F,12,521537,Unreliable
+2017,2017,Montana,30,Male,M,26,528956,4.9
+2017,2017,Nebraska,31,Female,F,23,961945,2.4
+2017,2017,Nebraska,31,Male,M,36,958131,3.8
+2017,2017,Nevada,32,Female,F,185,1494290,12.4
+2017,2017,Nevada,32,Male,M,227,1503749,15.1
+2017,2017,New Hampshire,33,Female,F,126,677786,18.6
+2017,2017,New Hampshire,33,Male,M,298,665009,44.8
+2017,2017,New Jersey,34,Female,F,507,4609070,11.0
+2017,2017,New Jersey,34,Male,M,1462,4396574,33.3
+2017,2017,New Mexico,35,Female,F,118,1053926,11.2
+2017,2017,New Mexico,35,Male,M,214,1034144,20.7
+2017,2017,New York,36,Female,F,799,10211937,7.8
+2017,2017,New York,36,Male,M,2425,9637462,25.2
+2017,2017,North Carolina,37,Female,F,649,5271981,12.3
+2017,2017,North Carolina,37,Male,M,1304,5001438,26.1
+2017,2017,North Dakota,38,Female,F,16,368094,Unreliable
+2017,2017,North Dakota,38,Male,M,19,387299,Unreliable
+2017,2017,Ohio,39,Female,F,1385,5945509,23.3
+2017,2017,Ohio,39,Male,M,2908,5713100,50.9
+2017,2017,Oklahoma,40,Female,F,169,1983302,8.5
+2017,2017,Oklahoma,40,Male,M,219,1947562,11.2
+2017,2017,Oregon,41,Female,F,134,2089787,6.4
+2017,2017,Oregon,41,Male,M,210,2052989,10.2
+2017,2017,Pennsylvania,42,Female,F,741,6534208,11.3
+2017,2017,Pennsylvania,42,Male,M,1807,6271329,28.8
+2017,2017,Rhode Island,44,Female,F,93,544648,17.1
+2017,2017,Rhode Island,44,Male,M,184,514991,35.7
+2017,2017,South Carolina,45,Female,F,283,2586682,10.9
+2017,2017,South Carolina,45,Male,M,466,2437687,19.1
+2017,2017,South Dakota,46,Female,F,14,430706,Unreliable
+2017,2017,South Dakota,46,Male,M,21,438960,4.8
+2017,2017,Tennessee,47,Female,F,525,3440018,15.3
+2017,2017,Tennessee,47,Male,M,744,3275966,22.7
+2017,2017,Texas,48,Female,F,541,14242803,3.8
+2017,2017,Texas,48,Male,M,917,14061793,6.5
+2017,2017,Utah,49,Female,F,193,1540145,12.5
+2017,2017,Utah,49,Male,M,263,1561688,16.8
+2017,2017,Vermont,50,Female,F,34,315401,10.8
+2017,2017,Vermont,50,Male,M,80,308256,26.0
+2017,2017,Virginia,51,Female,F,424,4303293,9.9
+2017,2017,Virginia,51,Male,M,817,4166727,19.6
+2017,2017,Washington,53,Female,F,283,3702270,7.6
+2017,2017,Washington,53,Male,M,459,3703473,12.4
+2017,2017,West Virginia,54,Female,F,283,917237,30.9
+2017,2017,West Virginia,54,Male,M,550,898620,61.2
+2017,2017,Wisconsin,55,Female,F,321,2912745,11.0
+2017,2017,Wisconsin,55,Male,M,605,2882738,21.0
+2017,2017,Wyoming,56,Female,F,25,283877,8.8
+2017,2017,Wyoming,56,Male,M,22,295438,7.4
+2018,2018,Alabama,01,Female,F,133,2523756,5.3
+2018,2018,Alabama,01,Male,M,248,2364115,10.5
+2018,2018,Alaska,02,Female,F,32,352865,9.1
+2018,2018,Alaska,02,Male,M,36,384573,9.4
+2018,2018,Arizona,04,Female,F,342,3606307,9.5
+2018,2018,Arizona,04,Male,M,764,3565339,21.4
+2018,2018,Arkansas,05,Female,F,93,1533682,6.1
+2018,2018,Arkansas,05,Male,M,115,1480143,7.8
+2018,2018,California,06,Female,F,700,19893468,3.5
+2018,2018,California,06,Male,M,1710,19663577,8.7
+2018,2018,Colorado,08,Female,F,186,2827696,6.6
+2018,2018,Colorado,08,Male,M,378,2867868,13.2
+2018,2018,Connecticut,09,Female,F,231,1829270,12.6
+2018,2018,Connecticut,09,Male,M,717,1743395,41.1
+2018,2018,Delaware,10,Female,F,107,499244,21.4
+2018,2018,Delaware,10,Male,M,248,467927,53.0
+2018,2018,District of Columbia,11,Female,F,41,369148,11.1
+2018,2018,District of Columbia,11,Male,M,150,333307,45.0
+2018,2018,Florida,12,Female,F,1042,10887548,9.6
+2018,2018,Florida,12,Male,M,2147,10411777,20.6
+2018,2018,Georgia,13,Female,F,310,5404059,5.7
+2018,2018,Georgia,13,Male,M,556,5115416,10.9
+2018,2018,Hawaii,15,Female,F,16,709489,Unreliable
+2018,2018,Hawaii,15,Male,M,43,711002,6.0
+2018,2018,Idaho,16,Female,F,50,875131,5.7
+2018,2018,Idaho,16,Male,M,70,879077,8.0
+2018,2018,Illinois,17,Female,F,628,6480179,9.7
+2018,2018,Illinois,17,Male,M,1541,6260901,24.6
+2018,2018,Indiana,18,Female,F,382,3391576,11.3
+2018,2018,Indiana,18,Male,M,722,3300302,21.9
+2018,2018,Iowa,19,Female,F,48,1585338,3.0
+2018,2018,Iowa,19,Male,M,95,1570807,6.0
+2018,2018,Kansas,20,Female,F,63,1461099,4.3
+2018,2018,Kansas,20,Male,M,93,1450406,6.4
+2018,2018,Kentucky,21,Female,F,347,2266891,15.3
+2018,2018,Kentucky,21,Male,M,642,2201511,29.2
+2018,2018,Louisiana,22,Female,F,133,2385219,5.6
+2018,2018,Louisiana,22,Male,M,311,2274759,13.7
+2018,2018,Maine,23,Female,F,70,683031,10.2
+2018,2018,Maine,23,Male,M,212,655373,32.3
+2018,2018,Maryland,24,Female,F,571,3113797,18.3
+2018,2018,Maryland,24,Male,M,1516,2928921,51.8
+2018,2018,Massachusetts,25,Female,F,555,3551621,15.6
+2018,2018,Massachusetts,25,Male,M,1436,3350528,42.9
+2018,2018,Michigan,26,Female,F,687,5073772,13.5
+2018,2018,Michigan,26,Male,M,1324,4922143,26.9
+2018,2018,Minnesota,27,Female,F,122,2816378,4.3
+2018,2018,Minnesota,27,Male,M,221,2794801,7.9
+2018,2018,Mississippi,28,Female,F,74,1538795,4.8
+2018,2018,Mississippi,28,Male,M,99,1447735,6.8
+2018,2018,Missouri,29,Female,F,364,3118889,11.7
+2018,2018,Missouri,29,Male,M,768,3007563,25.5
+2018,2018,Montana,30,Female,F,29,527453,5.5
+2018,2018,Montana,30,Male,M,35,534852,6.5
+2018,2018,Nebraska,31,Female,F,27,965886,2.8
+2018,2018,Nebraska,31,Male,M,36,963382,3.7
+2018,2018,Nevada,32,Female,F,137,1512837,9.1
+2018,2018,Nevada,32,Male,M,235,1521555,15.4
+2018,2018,New Hampshire,33,Female,F,111,684192,16.2
+2018,2018,New Hampshire,33,Male,M,301,672266,44.8
+2018,2018,New Jersey,34,Female,F,684,4556326,15.0
+2018,2018,New Jersey,34,Male,M,1899,4352194,43.6
+2018,2018,New Mexico,35,Female,F,116,1058143,11.0
+2018,2018,New Mexico,35,Male,M,222,1037285,21.4
+2018,2018,New York,36,Female,F,826,10053779,8.2
+2018,2018,New York,36,Male,M,2165,9488430,22.8
+2018,2018,North Carolina,37,Female,F,592,5332759,11.1
+2018,2018,North Carolina,37,Male,M,1191,5050861,23.6
+2018,2018,North Dakota,38,Female,F,11,370727,Unreliable
+2018,2018,North Dakota,38,Male,M,25,389350,6.4
+2018,2018,Ohio,39,Female,F,1053,5958724,17.7
+2018,2018,Ohio,39,Male,M,2184,5730718,38.1
+2018,2018,Oklahoma,40,Female,F,122,1990033,6.1
+2018,2018,Oklahoma,40,Male,M,186,1953046,9.5
+2018,2018,Oregon,41,Female,F,109,2113219,5.2
+2018,2018,Oregon,41,Male,M,230,2077494,11.1
+2018,2018,Pennsylvania,42,Female,F,846,6532400,13.0
+2018,2018,Pennsylvania,42,Male,M,2020,6274660,32.2
+2018,2018,Rhode Island,44,Female,F,65,542983,12.0
+2018,2018,Rhode Island,44,Male,M,202,514332,39.3
+2018,2018,South Carolina,45,Female,F,304,2620801,11.6
+2018,2018,South Carolina,45,Male,M,531,2463326,21.6
+2018,2018,South Dakota,46,Female,F,12,436704,Unreliable
+2018,2018,South Dakota,46,Male,M,16,445531,Unreliable
+2018,2018,Tennessee,47,Female,F,500,3467086,14.4
+2018,2018,Tennessee,47,Male,M,807,3302924,24.4
+2018,2018,Texas,48,Female,F,469,14441739,3.2
+2018,2018,Texas,48,Male,M,933,14260106,6.5
+2018,2018,Utah,49,Female,F,189,1568962,12.0
+2018,2018,Utah,49,Male,M,248,1592143,15.6
+2018,2018,Vermont,50,Female,F,51,317047,16.1
+2018,2018,Vermont,50,Male,M,76,309252,24.6
+2018,2018,Virginia,51,Female,F,356,4327037,8.2
+2018,2018,Virginia,51,Male,M,837,4190648,20.0
+2018,2018,Washington,53,Female,F,244,3765680,6.5
+2018,2018,Washington,53,Male,M,493,3769911,13.1
+2018,2018,West Virginia,54,Female,F,237,911492,26.0
+2018,2018,West Virginia,54,Male,M,465,894340,52.0
+2018,2018,Wisconsin,55,Female,F,285,2921295,9.8
+2018,2018,Wisconsin,55,Male,M,561,2892273,19.4
+2018,2018,Wyoming,56,Female,F,22,283203,7.8
+2018,2018,Wyoming,56,Male,M,18,294534,Unreliable
+2019,2019,Alabama,01,Female,F,152,2533668,6.0
+2019,2019,Alabama,01,Male,M,262,2369517,11.1
+2019,2019,Alaska,02,Female,F,22,350127,6.3
+2019,2019,Alaska,02,Male,M,61,381418,16.0
+2019,2019,Arizona,04,Female,F,370,3661420,10.1
+2019,2019,Arizona,04,Male,M,920,3617297,25.4
+2019,2019,Arkansas,05,Female,F,78,1536188,5.1
+2019,2019,Arkansas,05,Male,M,120,1481616,8.1
+2019,2019,California,06,Female,F,874,19867369,4.4
+2019,2019,California,06,Male,M,2361,19644854,12.0
+2019,2019,Colorado,08,Female,F,231,2857388,8.1
+2019,2019,Colorado,08,Male,M,402,2901348,13.9
+2019,2019,Connecticut,09,Female,F,270,1825870,14.8
+2019,2019,Connecticut,09,Male,M,830,1739417,47.7
+2019,2019,Delaware,10,Female,F,111,502971,22.1
+2019,2019,Delaware,10,Male,M,276,470793,58.6
+2019,2019,District of Columbia,11,Female,F,64,371038,17.2
+2019,2019,District of Columbia,11,Male,M,179,334711,53.5
+2019,2019,Florida,12,Female,F,1126,10980681,10.3
+2019,2019,Florida,12,Male,M,2645,10497056,25.2
+2019,2019,Georgia,13,Female,F,292,5456999,5.4
+2019,2019,Georgia,13,Male,M,570,5160424,11.0
+2019,2019,Hawaii,15,Female,F,19,707832,Unreliable
+2019,2019,Hawaii,15,Male,M,36,708040,5.1
+2019,2019,Idaho,16,Female,F,62,891137,7.0
+2019,2019,Idaho,16,Male,M,71,895928,7.9
+2019,2019,Illinois,17,Female,F,630,6445263,9.8
+2019,2019,Illinois,17,Male,M,1589,6226558,25.5
+2019,2019,Indiana,18,Female,F,426,3411859,12.5
+2019,2019,Indiana,18,Male,M,828,3320360,24.9
+2019,2019,Iowa,19,Female,F,53,1583995,3.3
+2019,2019,Iowa,19,Male,M,108,1571075,6.9
+2019,2019,Kansas,20,Female,F,73,1461617,5.0
+2019,2019,Kansas,20,Male,M,111,1451697,7.6
+2019,2019,Kentucky,21,Female,F,368,2266644,16.2
+2019,2019,Kentucky,21,Male,M,668,2201029,30.3
+2019,2019,Louisiana,22,Female,F,181,2381744,7.6
+2019,2019,Louisiana,22,Male,M,377,2267050,16.6
+2019,2019,Maine,23,Female,F,93,686100,13.6
+2019,2019,Maine,23,Male,M,230,658112,34.9
+2019,2019,Maryland,24,Female,F,579,3116815,18.6
+2019,2019,Maryland,24,Male,M,1525,2928865,52.1
+2019,2019,Massachusetts,25,Female,F,492,3546935,13.9
+2019,2019,Massachusetts,25,Male,M,1477,3345568,44.1
+2019,2019,Michigan,26,Female,F,570,5068329,11.2
+2019,2019,Michigan,26,Male,M,1219,4918528,24.8
+2019,2019,Minnesota,27,Female,F,143,2829821,5.1
+2019,2019,Minnesota,27,Male,M,285,2809811,10.1
+2019,2019,Mississippi,28,Female,F,88,1533857,5.7
+2019,2019,Mississippi,28,Male,M,157,1442292,10.9
+2019,2019,Missouri,29,Female,F,358,3124766,11.5
+2019,2019,Missouri,29,Male,M,738,3012662,24.5
+2019,2019,Montana,30,Female,F,29,530712,5.5
+2019,2019,Montana,30,Male,M,41,538066,7.6
+2019,2019,Nebraska,31,Female,F,30,967959,3.1
+2019,2019,Nebraska,31,Male,M,38,966449,3.9
+2019,2019,Nevada,32,Female,F,142,1535329,9.2
+2019,2019,Nevada,32,Male,M,231,1544827,15.0
+2019,2019,New Hampshire,33,Female,F,116,685918,16.9
+2019,2019,New Hampshire,33,Male,M,249,673793,37.0
+2019,2019,New Jersey,34,Female,F,671,4541603,14.8
+2019,2019,New Jersey,34,Male,M,1831,4340587,42.2
+2019,2019,New Mexico,35,Female,F,134,1059397,12.6
+2019,2019,New Mexico,35,Male,M,260,1037432,25.1
+2019,2019,New York,36,Female,F,809,10005715,8.1
+2019,2019,New York,36,Male,M,2130,9447846,22.5
+2019,2019,North Carolina,37,Female,F,547,5387820,10.2
+2019,2019,North Carolina,37,Male,M,1270,5100264,24.9
+2019,2019,North Dakota,38,Female,F,19,372030,Unreliable
+2019,2019,North Dakota,38,Male,M,24,390032,6.2
+2019,2019,Ohio,39,Female,F,1090,5958538,18.3
+2019,2019,Ohio,39,Male,M,2362,5730562,41.2
+2019,2019,Oklahoma,40,Female,F,107,1996313,5.4
+2019,2019,Oklahoma,40,Male,M,161,1960658,8.2
+2019,2019,Oregon,41,Female,F,112,2127010,5.3
+2019,2019,Oregon,41,Male,M,220,2090727,10.5
+2019,2019,Pennsylvania,42,Female,F,878,6527628,13.5
+2019,2019,Pennsylvania,42,Male,M,2156,6274361,34.4
+2019,2019,Rhode Island,44,Female,F,66,543686,12.1
+2019,2019,Rhode Island,44,Male,M,174,515675,33.7
+2019,2019,South Carolina,45,Female,F,300,2655575,11.3
+2019,2019,South Carolina,45,Male,M,562,2493139,22.5
+2019,2019,South Dakota,46,Female,F,16,437902,Unreliable
+2019,2019,South Dakota,46,Male,M,23,446757,5.1
+2019,2019,Tennessee,47,Female,F,522,3496935,14.9
+2019,2019,Tennessee,47,Male,M,1021,3332239,30.6
+2019,2019,Texas,48,Female,F,453,14593179,3.1
+2019,2019,Texas,48,Male,M,1044,14402702,7.2
+2019,2019,Utah,49,Female,F,168,1591041,10.6
+2019,2019,Utah,49,Male,M,229,1614917,14.2
+2019,2019,Vermont,50,Female,F,38,315673,12.0
+2019,2019,Vermont,50,Male,M,76,308316,24.7
+2019,2019,Virginia,51,Female,F,428,4335262,9.9
+2019,2019,Virginia,51,Male,M,838,4200257,20.0
+2019,2019,Washington,53,Female,F,277,3802910,7.3
+2019,2019,Washington,53,Male,M,550,3811983,14.4
+2019,2019,West Virginia,54,Female,F,224,904377,24.8
+2019,2019,West Virginia,54,Male,M,449,887770,50.6
+2019,2019,Wisconsin,55,Female,F,307,2925225,10.5
+2019,2019,Wisconsin,55,Male,M,621,2897209,21.4
+2019,2019,Wyoming,56,Female,F,17,284029,Unreliable
+2019,2019,Wyoming,56,Male,M,30,294730,10.2
+2020,2020,Alabama,01,Female,F,190,2544566,7.5
+2020,2020,Alabama,01,Male,M,421,2376966,17.7
+2020,2020,Alaska,02,Female,F,40,349621,11.4
+2020,2020,Alaska,02,Male,M,72,381537,18.9
+2020,2020,Arizona,04,Female,F,524,3735475,14.0
+2020,2020,Arizona,04,Male,M,1360,3685926,36.9
+2020,2020,Arkansas,05,Female,F,127,1543666,8.2
+2020,2020,Arkansas,05,Male,M,157,1486856,10.6
+2020,2020,California,06,Female,F,1285,19790589,6.5
+2020,2020,California,06,Male,M,4223,19577489,21.6
+2020,2020,Colorado,08,Female,F,307,2881832,10.7
+2020,2020,Colorado,08,Male,M,671,2925887,22.9
+2020,2020,Connecticut,09,Female,F,311,1822086,17.1
+2020,2020,Connecticut,09,Male,M,939,1734920,54.1
+2020,2020,Delaware,10,Female,F,136,510069,26.7
+2020,2020,Delaware,10,Male,M,271,476740,56.8
+2020,2020,District of Columbia,11,Female,F,98,374884,26.1
+2020,2020,District of Columbia,11,Male,M,239,337932,70.7
+2020,2020,Florida,12,Female,F,1539,11113132,13.8
+2020,2020,Florida,12,Male,M,3931,10620180,37.0
+2020,2020,Georgia,13,Female,F,444,5508468,8.1
+2020,2020,Georgia,13,Male,M,861,5201549,16.6
+2020,2020,Hawaii,15,Female,F,21,702640,3.0
+2020,2020,Hawaii,15,Male,M,53,704366,7.5
+2020,2020,Idaho,16,Female,F,68,910789,7.5
+2020,2020,Idaho,16,Male,M,92,916124,10.0
+2020,2020,Illinois,17,Female,F,778,6402224,12.2
+2020,2020,Illinois,17,Male,M,2170,6185306,35.1
+2020,2020,Indiana,18,Female,F,571,3422994,16.7
+2020,2020,Indiana,18,Male,M,1306,3331959,39.2
+2020,2020,Iowa,19,Female,F,82,1587866,5.2
+2020,2020,Iowa,19,Male,M,142,1575695,9.0
+2020,2020,Kansas,20,Female,F,91,1462265,6.2
+2020,2020,Kansas,20,Male,M,171,1451540,11.8
+2020,2020,Kentucky,21,Female,F,516,2271906,22.7
+2020,2020,Kentucky,21,Male,M,1172,2205345,53.1
+2020,2020,Louisiana,22,Female,F,278,2381158,11.7
+2020,2020,Louisiana,22,Male,M,667,2264160,29.5
+2020,2020,Maine,23,Female,F,121,688840,17.6
+2020,2020,Maine,23,Male,M,299,661301,45.2
+2020,2020,Maryland,24,Female,F,694,3123228,22.2
+2020,2020,Maryland,24,Male,M,1810,2932574,61.7
+2020,2020,Massachusetts,25,Female,F,566,3546542,16.0
+2020,2020,Massachusetts,25,Male,M,1499,3347032,44.8
+2020,2020,Michigan,26,Female,F,652,5058742,12.9
+2020,2020,Michigan,26,Male,M,1538,4907813,31.3
+2020,2020,Minnesota,27,Female,F,233,2838748,8.2
+2020,2020,Minnesota,27,Male,M,445,2818594,15.8
+2020,2020,Mississippi,28,Female,F,140,1530971,9.1
+2020,2020,Mississippi,28,Male,M,265,1435815,18.5
+2020,2020,Missouri,29,Female,F,418,3133825,13.3
+2020,2020,Missouri,29,Male,M,959,3017723,31.8
+2020,2020,Montana,30,Female,F,22,536476,4.1
+2020,2020,Montana,30,Male,M,64,544101,11.8
+2020,2020,Nebraska,31,Female,F,43,969739,4.4
+2020,2020,Nebraska,31,Male,M,58,967813,6.0
+2020,2020,Nevada,32,Female,F,186,1565619,11.9
+2020,2020,Nevada,32,Male,M,373,1572640,23.7
+2020,2020,New Hampshire,33,Female,F,96,689281,13.9
+2020,2020,New Hampshire,33,Male,M,245,676994,36.2
+2020,2020,New Jersey,34,Female,F,632,4539322,13.9
+2020,2020,New Jersey,34,Male,M,1906,4343049,43.9
+2020,2020,New Mexico,35,Female,F,181,1063860,17.0
+2020,2020,New Mexico,35,Male,M,354,1042459,34.0
+2020,2020,New York,36,Female,F,1100,9946279,11.1
+2020,2020,New York,36,Male,M,3133,9390497,33.4
+2020,2020,North Carolina,37,Female,F,785,5448241,14.4
+2020,2020,North Carolina,37,Male,M,1849,5152582,35.9
+2020,2020,North Dakota,38,Female,F,24,373494,6.4
+2020,2020,North Dakota,38,Male,M,47,391815,12.0
+2020,2020,Ohio,39,Female,F,1368,5960556,23.0
+2020,2020,Ohio,39,Male,M,3017,5732661,52.6
+2020,2020,Oklahoma,40,Female,F,125,2009602,6.2
+2020,2020,Oklahoma,40,Male,M,195,1971181,9.9
+2020,2020,Oregon,41,Female,F,166,2139046,7.8
+2020,2020,Oregon,41,Male,M,333,2102461,15.8
+2020,2020,Pennsylvania,42,Female,F,1127,6516212,17.3
+2020,2020,Pennsylvania,42,Male,M,2780,6267042,44.4
+2020,2020,Rhode Island,44,Female,F,76,542433,14.0
+2020,2020,Rhode Island,44,Male,M,255,514692,49.5
+2020,2020,South Carolina,45,Female,F,448,2694628,16.6
+2020,2020,South Carolina,45,Male,M,961,2523412,38.1
+2020,2020,South Dakota,46,Female,F,16,442058,Unreliable
+2020,2020,South Dakota,46,Male,M,30,450659,6.7
+2020,2020,Tennessee,47,Female,F,793,3528814,22.5
+2020,2020,Tennessee,47,Male,M,1619,3358020,48.2
+2020,2020,Texas,48,Female,F,654,14779708,4.4
+2020,2020,Texas,48,Male,M,1470,14581051,10.1
+2020,2020,Utah,49,Female,F,181,1612139,11.2
+2020,2020,Utah,49,Male,M,266,1637740,16.2
+2020,2020,Vermont,50,Female,F,47,315355,14.9
+2020,2020,Vermont,50,Male,M,110,307992,35.7
+2020,2020,Virginia,51,Female,F,580,4363032,13.3
+2020,2020,Virginia,51,Male,M,1317,4227531,31.2
+2020,2020,Washington,53,Female,F,356,3840014,9.3
+2020,2020,Washington,53,Male,M,839,3853598,21.8
+2020,2020,West Virginia,54,Female,F,338,900511,37.5
+2020,2020,West Virginia,54,Male,M,791,884276,89.5
+2020,2020,Wisconsin,55,Female,F,377,2928939,12.9
+2020,2020,Wisconsin,55,Male,M,874,2903716,30.1
+2020,2020,Wyoming,56,Female,F,19,285437,Unreliable
+2020,2020,Wyoming,56,Male,M,41,296891,13.8
+2021,2021,Alabama,01,Female,F,314,2591778,12.1
+2021,2021,Alabama,01,Male,M,667,2448099,27.2
+2021,2021,Alaska,02,Female,F,82,348469,23.5
+2021,2021,Alaska,02,Male,M,119,384204,31.0
+2021,2021,Arizona,04,Female,F,550,3642602,15.1
+2021,2021,Arizona,04,Male,M,1450,3633714,39.9
+2021,2021,Arkansas,05,Female,F,149,1532713,9.7
+2021,2021,Arkansas,05,Male,M,237,1493178,15.9
+2021,2021,California,06,Female,F,1678,19620646,8.6
+2021,2021,California,06,Male,M,5503,19617190,28.1
+2021,2021,Colorado,08,Female,F,404,2867419,14.1
+2021,2021,Colorado,08,Male,M,885,2944650,30.1
+2021,2021,Connecticut,09,Female,F,386,1836010,21.0
+2021,2021,Connecticut,09,Male,M,1007,1769587,56.9
+2021,2021,Delaware,10,Female,F,141,516048,27.3
+2021,2021,Delaware,10,Male,M,309,487336,63.4
+2021,2021,District of Columbia,11,Female,F,93,351146,26.5
+2021,2021,District of Columbia,11,Male,M,255,318904,80.0
+2021,2021,Florida,12,Female,F,1710,11070771,15.4
+2021,2021,Florida,12,Male,M,4230,10710357,39.5
+2021,2021,Georgia,13,Female,F,590,5529805,10.7
+2021,2021,Georgia,13,Male,M,1209,5269761,22.9
+2021,2021,Hawaii,15,Female,F,31,716220,4.3
+2021,2021,Hawaii,15,Male,M,60,725333,8.3
+2021,2021,Idaho,16,Female,F,85,942307,9.0
+2021,2021,Idaho,16,Male,M,151,958616,15.8
+2021,2021,Illinois,17,Female,F,793,6406387,12.4
+2021,2021,Illinois,17,Male,M,2257,6265082,36.0
+2021,2021,Indiana,18,Female,F,723,3428315,21.1
+2021,2021,Indiana,18,Male,M,1483,3377670,43.9
+2021,2021,Iowa,19,Female,F,90,1591695,5.7
+2021,2021,Iowa,19,Male,M,169,1601384,10.6
+2021,2021,Kansas,20,Female,F,146,1464091,10.0
+2021,2021,Kansas,20,Male,M,289,1470491,19.7
+2021,2021,Kentucky,21,Female,F,622,2275505,27.3
+2021,2021,Kentucky,21,Male,M,1275,2233889,57.1
+2021,2021,Louisiana,22,Female,F,408,2358856,17.3
+2021,2021,Louisiana,22,Male,M,927,2265191,40.9
+2021,2021,Maine,23,Female,F,154,695754,22.1
+2021,2021,Maine,23,Male,M,393,676493,58.1
+2021,2021,Maryland,24,Female,F,682,3162705,21.6
+2021,2021,Maryland,24,Male,M,1778,3002424,59.2
+2021,2021,Massachusetts,25,Female,F,608,3572631,17.0
+2021,2021,Massachusetts,25,Male,M,1659,3412092,48.6
+2021,2021,Michigan,26,Female,F,783,5070232,15.4
+2021,2021,Michigan,26,Male,M,1753,4980579,35.2
+2021,2021,Minnesota,27,Female,F,295,2846977,10.4
+2021,2021,Minnesota,27,Male,M,683,2860413,23.9
+2021,2021,Mississippi,28,Female,F,196,1514629,12.9
+2021,2021,Mississippi,28,Male,M,360,1435336,25.1
+2021,2021,Missouri,29,Female,F,478,3123522,15.3
+2021,2021,Missouri,29,Male,M,1104,3044665,36.3
+2021,2021,Montana,30,Female,F,39,545001,7.2
+2021,2021,Montana,30,Male,M,75,559270,13.4
+2021,2021,Nebraska,31,Female,F,40,976900,4.1
+2021,2021,Nebraska,31,Male,M,73,986792,7.4
+2021,2021,Nevada,32,Female,F,224,1559894,14.4
+2021,2021,Nevada,32,Male,M,381,1584097,24.1
+2021,2021,New Hampshire,33,Female,F,123,695860,17.7
+2021,2021,New Hampshire,33,Male,M,259,693132,37.4
+2021,2021,New Jersey,34,Female,F,714,4705188,15.2
+2021,2021,New Jersey,34,Male,M,1958,4561942,42.9
+2021,2021,New Mexico,35,Female,F,232,1063180,21.8
+2021,2021,New Mexico,35,Male,M,518,1052697,49.2
+2021,2021,New York,36,Female,F,1324,10140611,13.1
+2021,2021,New York,36,Male,M,3622,9695302,37.4
+2021,2021,North Carolina,37,Female,F,1010,5394907,18.7
+2021,2021,North Carolina,37,Male,M,2329,5156255,45.2
+2021,2021,North Dakota,38,Female,F,21,376539,5.6
+2021,2021,North Dakota,38,Male,M,53,398409,13.3
+2021,2021,Ohio,39,Female,F,1344,5967819,22.5
+2021,2021,Ohio,39,Male,M,3112,5812198,53.5
+2021,2021,Oklahoma,40,Female,F,163,2002339,8.1
+2021,2021,Oklahoma,40,Male,M,305,1984300,15.4
+2021,2021,Oregon,41,Female,F,232,2129317,10.9
+2021,2021,Oregon,41,Male,M,547,2116838,25.8
+2021,2021,Pennsylvania,42,Female,F,1221,6564246,18.6
+2021,2021,Pennsylvania,42,Male,M,2860,6399810,44.7
+2021,2021,Rhode Island,44,Female,F,123,558649,22.0
+2021,2021,Rhode Island,44,Male,M,262,536961,48.8
+2021,2021,South Carolina,45,Female,F,534,2666990,20.0
+2021,2021,South Carolina,45,Male,M,1178,2523715,46.7
+2021,2021,South Dakota,46,Female,F,22,440534,5.0
+2021,2021,South Dakota,46,Male,M,24,454842,5.3
+2021,2021,Tennessee,47,Female,F,978,3555217,27.5
+2021,2021,Tennessee,47,Male,M,2060,3420001,60.2
+2021,2021,Texas,48,Female,F,890,14791971,6.0
+2021,2021,Texas,48,Male,M,1880,14735970,12.8
+2021,2021,Utah,49,Female,F,164,1647906,10.0
+2021,2021,Utah,49,Male,M,282,1690069,16.7
+2021,2021,Vermont,50,Female,F,71,324720,21.9
+2021,2021,Vermont,50,Male,M,147,320850,45.8
+2021,2021,Virginia,51,Female,F,629,4365073,14.4
+2021,2021,Virginia,51,Male,M,1601,4277201,37.4
+2021,2021,Washington,53,Female,F,501,3840425,13.0
+2021,2021,Washington,53,Male,M,1122,3898267,28.8
+2021,2021,West Virginia,54,Female,F,396,893861,44.3
+2021,2021,West Virginia,54,Male,M,857,889098,96.4
+2021,2021,Wisconsin,55,Female,F,437,2942034,14.9
+2021,2021,Wisconsin,55,Male,M,1000,2953874,33.9
+2021,2021,Wyoming,56,Female,F,31,282589,11.0
+2021,2021,Wyoming,56,Male,M,40,296214,13.5
+2022,2022,Alabama,01,Female,F,346,2606936,13.3
+2022,2022,Alabama,01,Male,M,751,2467360,30.4
+2022,2022,Alaska,02,Female,F,62,347636,17.8
+2022,2022,Alaska,02,Male,M,126,385947,32.6
+2022,2022,Arizona,04,Female,F,461,3680163,12.5
+2022,2022,Arizona,04,Male,M,1469,3679034,39.9
+2022,2022,Arkansas,05,Female,F,153,1540160,9.9
+2022,2022,Arkansas,05,Male,M,235,1505477,15.6
+2022,2022,California,06,Female,F,1611,19494326,8.3
+2022,2022,California,06,Male,M,5736,19535016,29.4
+2022,2022,Colorado,08,Female,F,363,2875382,12.6
+2022,2022,Colorado,08,Male,M,814,2964544,27.5
+2022,2022,Connecticut,09,Female,F,358,1849951,19.4
+2022,2022,Connecticut,09,Male,M,991,1776254,55.8
+2022,2022,Delaware,10,Female,F,153,523876,29.2
+2022,2022,Delaware,10,Male,M,337,494520,68.1
+2022,2022,District of Columbia,11,Female,F,98,352121,27.8
+2022,2022,District of Columbia,11,Male,M,247,319682,77.3
+2022,2022,Florida,12,Female,F,1635,11299397,14.5
+2022,2022,Florida,12,Male,M,3946,10945426,36.1
+2022,2022,Georgia,13,Female,F,614,5582224,11.0
+2022,2022,Georgia,13,Male,M,1369,5330652,25.7
+2022,2022,Hawaii,15,Female,F,22,715485,3.1
+2022,2022,Hawaii,15,Male,M,81,724711,11.2
+2022,2022,Idaho,16,Female,F,98,961894,10.2
+2022,2022,Idaho,16,Male,M,172,977139,17.6
+2022,2022,Illinois,17,Female,F,846,6353298,13.3
+2022,2022,Illinois,17,Male,M,2343,6228734,37.6
+2022,2022,Indiana,18,Female,F,654,3437549,19.0
+2022,2022,Indiana,18,Male,M,1418,3395488,41.8
+2022,2022,Iowa,19,Female,F,70,1593780,4.4
+2022,2022,Iowa,19,Male,M,166,1606737,10.3
+2022,2022,Kansas,20,Female,F,164,1461695,11.2
+2022,2022,Kansas,20,Male,M,342,1475455,23.2
+2022,2022,Kentucky,21,Female,F,582,2271801,25.6
+2022,2022,Kentucky,21,Male,M,1185,2240509,52.9
+2022,2022,Louisiana,22,Female,F,424,2342871,18.1
+2022,2022,Louisiana,22,Male,M,943,2247370,42.0
+2022,2022,Maine,23,Female,F,156,702108,22.2
+2022,2022,Maine,23,Male,M,463,683232,67.8
+2022,2022,Maryland,24,Female,F,631,3162751,20.0
+2022,2022,Maryland,24,Male,M,1616,3001909,53.8
+2022,2022,Massachusetts,25,Female,F,638,3564024,17.9
+2022,2022,Massachusetts,25,Male,M,1688,3417950,49.4
+2022,2022,Michigan,26,Female,F,710,5051569,14.1
+2022,2022,Michigan,26,Male,M,1708,4982544,34.3
+2022,2022,Minnesota,27,Female,F,289,2845968,10.2
+2022,2022,Minnesota,27,Male,M,742,2871216,25.8
+2022,2022,Mississippi,28,Female,F,164,1511281,10.9
+2022,2022,Mississippi,28,Male,M,379,1428776,26.5
+2022,2022,Missouri,29,Female,F,487,3123136,15.6
+2022,2022,Missouri,29,Male,M,1099,3054821,36.0
+2022,2022,Montana,30,Female,F,48,553021,8.7
+2022,2022,Montana,30,Male,M,82,569846,14.4
+2022,2022,Nebraska,31,Female,F,49,977251,5.0
+2022,2022,Nebraska,31,Male,M,73,990672,7.4
+2022,2022,Nevada,32,Female,F,225,1573920,14.3
+2022,2022,Nevada,32,Male,M,414,1603852,25.8
+2022,2022,New Hampshire,33,Female,F,117,697422,16.8
+2022,2022,New Hampshire,33,Male,M,314,697809,45.0
+2022,2022,New Jersey,34,Female,F,668,4696685,14.2
+2022,2022,New Jersey,34,Male,M,1969,4565014,43.1
+2022,2022,New Mexico,35,Female,F,224,1060193,21.1
+2022,2022,New Mexico,35,Male,M,509,1053151,48.3
+2022,2022,New York,36,Female,F,1351,10050941,13.4
+2022,2022,New York,36,Male,M,4010,9626210,41.7
+2022,2022,North Carolina,37,Female,F,1111,5459144,20.4
+2022,2022,North Carolina,37,Male,M,2528,5239829,48.2
+2022,2022,North Dakota,38,Female,F,33,378798,8.7
+2022,2022,North Dakota,38,Male,M,64,400463,16.0
+2022,2022,Ohio,39,Female,F,1324,5946374,22.3
+2022,2022,Ohio,39,Male,M,2906,5809684,50.0
+2022,2022,Oklahoma,40,Female,F,250,2015318,12.4
+2022,2022,Oklahoma,40,Male,M,511,2004482,25.5
+2022,2022,Oregon,41,Female,F,274,2122965,12.9
+2022,2022,Oregon,41,Male,M,694,2117172,32.8
+2022,2022,Pennsylvania,42,Female,F,1154,6566665,17.6
+2022,2022,Pennsylvania,42,Male,M,2806,6405343,43.8
+2022,2022,Rhode Island,44,Female,F,88,556739,15.8
+2022,2022,Rhode Island,44,Male,M,245,536995,45.6
+2022,2022,South Carolina,45,Female,F,594,2710515,21.9
+2022,2022,South Carolina,45,Male,M,1237,2572119,48.1
+2022,2022,South Dakota,46,Female,F,23,447101,5.1
+2022,2022,South Dakota,46,Male,M,23,462723,5.0
+2022,2022,Tennessee,47,Female,F,930,3588981,25.9
+2022,2022,Tennessee,47,Male,M,2132,3462358,61.6
+2022,2022,Texas,48,Female,F,970,15010122,6.5
+2022,2022,Texas,48,Male,M,2202,15019450,14.7
+2022,2022,Utah,49,Female,F,168,1663969,10.1
+2022,2022,Utah,49,Male,M,259,1716831,15.1
+2022,2022,Vermont,50,Female,F,79,325039,24.3
+2022,2022,Vermont,50,Male,M,160,322025,49.7
+2022,2022,Virginia,51,Female,F,585,4384505,13.3
+2022,2022,Virginia,51,Male,M,1523,4299114,35.4
+2022,2022,Washington,53,Female,F,583,3857444,15.1
+2022,2022,Washington,53,Male,M,1480,3928342,37.7
+2022,2022,West Virginia,54,Female,F,331,888850,37.2
+2022,2022,West Virginia,54,Male,M,815,886306,92.0
+2022,2022,Wisconsin,55,Female,F,414,2937233,14.1
+2022,2022,Wisconsin,55,Male,M,1019,2955306,34.5
+2022,2022,Wyoming,56,Female,F,39,283427,13.8
+2022,2022,Wyoming,56,Male,M,44,297954,14.8
+2023,2023,Alabama,01,Female,F,355,2629215,13.5
+2023,2023,Alabama,01,Male,M,847,2479253,34.2
+2023,2023,Alaska,02,Female,F,99,348061,28.4
+2023,2023,Alaska,02,Male,M,191,385345,49.6
+2023,2023,Arizona,04,Female,F,474,3723615,12.7
+2023,2023,Arizona,04,Male,M,1476,3707729,39.8
+2023,2023,Arkansas,05,Female,F,110,1553895,7.1
+2023,2023,Arkansas,05,Male,M,204,1513837,13.5
+2023,2023,California,06,Female,F,1742,19519540,8.9
+2023,2023,California,06,Male,M,6146,19445653,31.6
+2023,2023,Colorado,08,Female,F,367,2901403,12.6
+2023,2023,Colorado,08,Male,M,937,2976207,31.5
+2023,2023,Connecticut,09,Female,F,282,1843238,15.3
+2023,2023,Connecticut,09,Male,M,905,1773938,51.0
+2023,2023,Delaware,10,Female,F,146,532742,27.4
+2023,2023,Delaware,10,Male,M,311,499148,62.3
+2023,2023,District of Columbia,11,Female,F,103,357257,28.8
+2023,2023,District of Columbia,11,Male,M,247,321715,76.8
+2023,2023,Florida,12,Female,F,1465,11501917,12.7
+2023,2023,Florida,12,Male,M,3584,11108809,32.3
+2023,2023,Georgia,13,Female,F,606,5654215,10.7
+2023,2023,Georgia,13,Male,M,1275,5375012,23.7
+2023,2023,Hawaii,15,Female,F,30,715343,4.2
+2023,2023,Hawaii,15,Male,M,103,719795,14.3
+2023,2023,Idaho,16,Female,F,93,976267,9.5
+2023,2023,Idaho,16,Male,M,172,988459,17.4
+2023,2023,Illinois,17,Female,F,722,6348606,11.4
+2023,2023,Illinois,17,Male,M,2171,6201083,35.0
+2023,2023,Indiana,18,Female,F,548,3457728,15.8
+2023,2023,Indiana,18,Male,M,1151,3404471,33.8
+2023,2023,Iowa,19,Female,F,95,1598960,5.9
+2023,2023,Iowa,19,Male,M,158,1608044,9.8
+2023,2023,Kansas,20,Female,F,150,1465908,10.2
+2023,2023,Kansas,20,Male,M,273,1474638,18.5
+2023,2023,Kentucky,21,Female,F,511,2283019,22.4
+2023,2023,Kentucky,21,Male,M,1114,2243135,49.7
+2023,2023,Louisiana,22,Female,F,329,2338851,14.1
+2023,2023,Louisiana,22,Male,M,789,2234898,35.3
+2023,2023,Maine,23,Female,F,135,708167,19.1
+2023,2023,Maine,23,Male,M,379,687555,55.1
+2023,2023,Maryland,24,Female,F,631,3175850,19.9
+2023,2023,Maryland,24,Male,M,1572,3004403,52.3
+2023,2023,Massachusetts,25,Female,F,589,3580964,16.4
+2023,2023,Massachusetts,25,Male,M,1520,3420435,44.4
+2023,2023,Michigan,26,Female,F,678,5063720,13.4
+2023,2023,Michigan,26,Male,M,1627,4973541,32.7
+2023,2023,Minnesota,27,Female,F,317,2862540,11.1
+2023,2023,Minnesota,27,Male,M,677,2875375,23.5
+2023,2023,Mississippi,28,Female,F,154,1513972,10.2
+2023,2023,Mississippi,28,Male,M,339,1425718,23.8
+2023,2023,Missouri,29,Female,F,429,3138564,13.7
+2023,2023,Missouri,29,Male,M,1029,3057592,33.7
+2023,2023,Montana,30,Female,F,44,558871,7.9
+2023,2023,Montana,30,Male,M,85,573941,14.8
+2023,2023,Nebraska,31,Female,F,26,983627,2.6
+2023,2023,Nebraska,31,Male,M,52,994752,5.2
+2023,2023,Nevada,32,Female,F,232,1586320,14.6
+2023,2023,Nevada,32,Male,M,630,1607856,39.2
+2023,2023,New Hampshire,33,Female,F,113,702361,16.1
+2023,2023,New Hampshire,33,Male,M,286,699693,40.9
+2023,2023,New Jersey,34,Female,F,607,4718529,12.9
+2023,2023,New Jersey,34,Male,M,1743,4572312,38.1
+2023,2023,New Mexico,35,Female,F,212,1063315,19.9
+2023,2023,New Mexico,35,Male,M,502,1051056,47.8
+2023,2023,New York,36,Female,F,1393,10015595,13.9
+2023,2023,New York,36,Male,M,3915,9555621,41.0
+2023,2023,North Carolina,37,Female,F,865,5538969,15.6
+2023,2023,North Carolina,37,Male,M,2050,5296522,38.7
+2023,2023,North Dakota,38,Female,F,25,381838,6.5
+2023,2023,North Dakota,38,Male,M,62,402088,15.4
+2023,2023,Ohio,39,Female,F,1164,5973286,19.5
+2023,2023,Ohio,39,Male,M,2641,5812649,45.4
+2023,2023,Oklahoma,40,Female,F,258,2037066,12.7
+2023,2023,Oklahoma,40,Male,M,578,2016758,28.7
+2023,2023,Oregon,41,Female,F,343,2125147,16.1
+2023,2023,Oregon,41,Male,M,1041,2108211,49.4
+2023,2023,Pennsylvania,42,Female,F,1033,6571832,15.7
+2023,2023,Pennsylvania,42,Male,M,2543,6389851,39.8
+2023,2023,Rhode Island,44,Female,F,108,558503,19.3
+2023,2023,Rhode Island,44,Male,M,239,537459,44.5
+2023,2023,South Carolina,45,Female,F,553,2762518,20.0
+2023,2023,South Carolina,45,Male,M,1164,2611037,44.6
+2023,2023,South Dakota,46,Female,F,19,451921,Unreliable
+2023,2023,South Dakota,46,Male,M,29,467397,6.2
+2023,2023,Tennessee,47,Female,F,868,3631374,23.9
+2023,2023,Tennessee,47,Male,M,2062,3495115,59.0
+2023,2023,Texas,48,Female,F,957,15287209,6.3
+2023,2023,Texas,48,Male,M,2224,15216092,14.6
+2023,2023,Utah,49,Female,F,179,1686145,10.6
+2023,2023,Utah,49,Male,M,320,1731589,18.5
+2023,2023,Vermont,50,Female,F,62,326028,19.0
+2023,2023,Vermont,50,Male,M,170,321436,52.9
+2023,2023,Virginia,51,Female,F,566,4409697,12.8
+2023,2023,Virginia,51,Male,M,1512,4306001,35.1
+2023,2023,Washington,53,Female,F,749,3878878,19.3
+2023,2023,Washington,53,Male,M,2086,3934002,53.0
+2023,2023,West Virginia,54,Female,F,380,886438,42.9
+2023,2023,West Virginia,54,Male,M,804,883633,91.0
+2023,2023,Wisconsin,55,Female,F,434,2951439,14.7
+2023,2023,Wisconsin,55,Male,M,987,2959516,33.4
+2023,2023,Wyoming,56,Female,F,40,285032,14.0
+2023,2023,Wyoming,56,Male,M,46,299025,15.4

@@ -1,0 +1,58 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cdc-wonder"
+version = "0.1.0"
+description = "Programmatic Python interface to CDC WONDER mortality data via browser automation"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    {name = "Theodore Caputi", email = "tcaputi@mit.edu"},
+]
+license = {text = "MIT"}
+keywords = ["cdc", "wonder", "epidemiology", "mortality", "public-health"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Healthcare Industry",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Medical Science Apps.",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+dependencies = [
+    "pandas>=1.3",
+    "playwright>=1.30",
+]
+
+[project.urls]
+Repository = "https://github.com/tlcaputi/cdc-wonder"
+Issues = "https://github.com/tlcaputi/cdc-wonder/issues"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "ruff>=0.1",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["cdc_wonder*"]
+
+[tool.setuptools.package-data]
+cdc_wonder = ["data/*.csv"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
