@@ -13,3 +13,4 @@ venv/
 .ruff_cache/
 *.tsv
 !cdc_wonder/data/*.csv
+.dev/
