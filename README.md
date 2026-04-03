@@ -104,6 +104,9 @@ df = WonderQuery(group_by=["state"], five_year_age=["60-64"]).run()
 ## Cause-of-Death Filters
 
 ```python
+# UCD ICD-10 codes (e.g., ischaemic heart disease I20-I25)
+WonderQuery(group_by=["state"], ucd_icd10=["I20", "I21", "I22", "I23", "I24", "I25"])
+
 # MCD ICD-10 codes (e.g., opioids)
 WonderQuery(group_by=["state"], mcd_icd10=["T40.0", "T40.1", "T40.2"])
 

@@ -229,32 +229,35 @@ class WonderQuery:
             sex = [SEX_MAP.get(s.lower(), s.upper()) for s in sex]
 
         # ── build demographic filter dict ─────────────────────────────────────
+        # Empty lists are treated as "no filter" (keep CDC WONDER defaults).
         self._demo_filters: dict[str, list[str]] = {}
         if years is not None:
-            self._demo_filters["years"] = [str(int(y)) for y in years]
-        if states is not None:
+            yr_list = [str(int(y)) for y in years]
+            if yr_list:
+                self._demo_filters["years"] = yr_list
+        if states:
             self._demo_filters["states"] = list(states)
-        if sex is not None:
+        if sex:
             self._demo_filters["sex"] = sex
-        if race is not None:
+        if race:
             self._demo_filters["race"] = list(race)
-        if hispanic is not None:
+        if hispanic:
             self._demo_filters["hispanic"] = list(hispanic)
-        if ten_year_age is not None:
+        if ten_year_age:
             self._demo_filters["ten_year_age"] = list(ten_year_age)
-        if five_year_age is not None:
+        if five_year_age:
             self._demo_filters["five_year_age"] = list(five_year_age)
-        if single_year_age is not None:
+        if single_year_age:
             self._demo_filters["single_year_age"] = list(single_year_age)
-        if weekday is not None:
+        if weekday:
             self._demo_filters["weekday"] = list(weekday)
-        if autopsy is not None:
+        if autopsy:
             self._demo_filters["autopsy"] = list(autopsy)
-        if place_of_death is not None:
+        if place_of_death:
             self._demo_filters["place_of_death"] = list(place_of_death)
-        if census_region is not None:
+        if census_region:
             self._demo_filters["census_region"] = list(census_region)
-        if hhs_region is not None:
+        if hhs_region:
             self._demo_filters["hhs_region"] = list(hhs_region)
 
         self._ucd_icd10 = list(ucd_icd10) if ucd_icd10 else None
@@ -385,9 +388,8 @@ class WonderQuery:
                     f"threshold (~200K/yr). This usually means the filter failed to apply.\n\n"
                     f"Filters applied:\n"
                     f"  {chr(10).join('  ' + f for f in filters_applied)}\n\n"
-                    f"Known issue: UCD ICD-10 text search may not be working properly. "
-                    f"Try using:\n"
+                    f"If this persists, try an alternative filter type:\n"
                     f"  - ucd_113_codes for common conditions (e.g., GR113-051 for MI)\n"
                     f"  - ucd_drug_codes for drug-related causes\n"
-                    f"  - mcd_icd10 for multiple cause filters (works reliably)"
+                    f"  - mcd_icd10 for multiple cause filters"
                 )

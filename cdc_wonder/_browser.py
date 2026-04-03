@@ -83,61 +83,78 @@ def _select_safe(page, field: str, values: list[str]) -> None:
     time.sleep(0.1)
 
 
-def _activate_search_mode(page, var_stem: str, codes: list[str]) -> str:
+def _activate_search_mode(page, var_stem: str, codes: list[str]) -> tuple[str, bool]:
     """Activate ICD-10 finder and set codes.
 
     Handles two CDC WONDER form layouts:
 
-    * Browse available (e.g. D157 / mcd_expanded):
-        Browse → select chapter ranges → Open Fully → select individual codes
-        in F_{var_stem} → set finder-stage='search'
+    * Open/Open Fully available (e.g. D157 / mcd_expanded):
+        Open → select containing chapter range → Open Fully → select individual
+        codes in F_{var_stem} SELECT → keep finder-stage='codeset'.
+        CDC WONDER uses the SELECT selections on form submit.
 
-    * No Browse (e.g. D77 / mcd):
-        Click Search button → navigate to search-mode form →
-        inject codes into V_{var_stem} textarea → set finder-stage='search'
-        (stage='codeset' with individual codes is ignored by the D77 server)
+    * Search only (e.g. D77 / mcd):
+        Click Search button → navigate to search-mode form → inject codes into
+        V_{var_stem} textarea → set finder-stage='search'.
+        (stage='codeset' with individual codes is ignored by the D77 server.)
 
-    Returns the finder-stage value after activation.
+    Returns a tuple of (finder-stage value after activation, used_open_fully).
+    ``used_open_fully=True`` means codes live in the F_{var_stem} SELECT
+    (D157-style, codeset mode); no follow-up textarea re-injection needed.
+    ``used_open_fully=False`` means codes live in the V_{var_stem} textarea
+    (D77-style, search mode); a follow-up ``_set_icd10_via_js`` call is needed
+    after re-applying base filters to ensure the textarea value is retained.
     """
     stage_name      = f"finder-stage-{var_stem}"
-    browse_name     = f"finder-action-{var_stem}-Browse"
+    open_name       = f"finder-action-{var_stem}-Open"
     open_fully_name = f"finder-action-{var_stem}-Open Fully"
 
-    has_browse = page.evaluate(
-        f'() => !!document.querySelector(\'input[name="{browse_name}"]\')'
+    has_open_fully = page.evaluate(
+        f'() => !!document.querySelector(\'input[name="{open_fully_name}"]\')'
     )
 
-    if has_browse:
-        # ── Browse → Open Fully → select individual codes → stage='search' ────
-        with page.expect_navigation(wait_until="domcontentloaded", timeout=30_000):
-            page.locator(f'input[name="{browse_name}"]').click()
-        time.sleep(_NAV_SLEEP)
+    if has_open_fully:
+        # ── Open → select chapter range → Open Fully → select individual codes ─
+        # D157 uses a hierarchical codeset browser. The correct workflow:
+        #   1. Click Open: expands chapter-level ranges into F_{var_stem} SELECT.
+        #   2. Select the chapter range(s) containing our codes (e.g. C00-D48).
+        #   3. Click Open Fully: expands selected range(s) to individual codes.
+        #   4. Select the specific codes (e.g. C33, C34).
+        # Submit with finder-stage='codeset' — CDC WONDER uses the SELECT selections.
+        # Do NOT change finder-stage to 'search'; the server ignores codeset
+        # SELECT selections when stage='search'.
+        has_open = page.evaluate(
+            f'() => !!document.querySelector(\'input[name="{open_name}"]\')'
+        )
+        if has_open:
+            with page.expect_navigation(wait_until="domcontentloaded", timeout=30_000):
+                page.locator(f'input[name="{open_name}"]').click()
+            time.sleep(_NAV_SLEEP)
 
+        # Select the containing chapter ranges in the SELECT
         _select_finder_ranges_for_codes(page, var_stem, codes)
         time.sleep(0.5)
 
-        has_open_fully = page.evaluate(
-            f'() => !!document.querySelector(\'input[name="{open_fully_name}"]\')'
-        )
-        if has_open_fully:
-            with page.expect_navigation(wait_until="domcontentloaded", timeout=30_000):
-                page.locator(f'input[name="{open_fully_name}"]').click()
-            time.sleep(_NAV_SLEEP)
+        # Open Fully to expand selected range to individual codes
+        with page.expect_navigation(wait_until="domcontentloaded", timeout=30_000):
+            page.locator(f'input[name="{open_fully_name}"]').click()
+        time.sleep(_NAV_SLEEP)
 
+        # Select the specific individual codes in the expanded SELECT
         _select_finder_individual_codes(page, var_stem, codes)
         time.sleep(0.5)
 
-        # After Browse+OpenFully the codes live in F_{var_stem}; stage='search'
-        # signals CDC WONDER to use those selections.
-        page.evaluate(f"""() => {{
-            const st = document.querySelector('[name="{stage_name}"]');
-            if (st) st.value = 'search';
+        # Keep finder-stage='codeset' (do NOT set to 'search').
+        # CDC WONDER applies the SELECT selections when stage='codeset'.
+        stage = page.evaluate(f"""() => {{
+            const el = document.querySelector('[name="{stage_name}"]');
+            return el ? el.value : '?';
         }}""")
-        time.sleep(0.3)
+        return stage, True  # used_open_fully=True: codes in SELECT (codeset mode)
 
     else:
-        # ── No Browse (e.g. D77 / mcd): Search button → textarea injection ───
-        # D77 has a Search button (finder-action-D77.V13-Search) instead of Browse.
+        # ── No Open Fully (e.g. D77 / mcd): Search button → textarea injection ─
+        # D77 has a Search button (finder-action-D77.V13-Search) instead of Open.
         # Clicking Search navigates to the search-mode form where V_{var_stem}
         # (a textarea) is exposed.  We inject the codes there and set
         # finder-stage='search'.  stage='codeset' with individual codes does NOT
@@ -163,10 +180,11 @@ def _activate_search_mode(page, var_stem: str, codes: list[str]) -> str:
         }}""")
         time.sleep(0.3)
 
-    return page.evaluate(f"""() => {{
-        const el = document.querySelector('[name="{stage_name}"]');
-        return el ? el.value : '?';
-    }}""")
+        stage = page.evaluate(f"""() => {{
+            const el = document.querySelector('[name="{stage_name}"]');
+            return el ? el.value : '?';
+        }}""")
+        return stage, False  # used_open_fully=False: codes in textarea, re-inject after base filters
 
 
 def _set_icd10_via_js(page, var_stem: str, codes: list[str]) -> None:
@@ -446,7 +464,7 @@ def run_query(
         browser = p.chromium.launch(headless=headless)
         ctx = browser.new_context(user_agent=_user_agent())
         page = ctx.new_page()
-        page.set_default_timeout(90_000)
+        page.set_default_timeout(300_000)
 
         # ── 1. Load form ──────────────────────────────────────────────────────
         if verbose: print(f"[WONDER] Loading {ds['url']!r}…")
@@ -478,9 +496,9 @@ def run_query(
                 if (r) r.click();
             }}""")
             time.sleep(0.3)
-            # Navigate through the finder widget (Browse or Search depending on form).
+            # Navigate through the finder widget (Open/Open Fully or Search).
             # Any navigation resets other form fields, so re-apply base filters after.
-            stage = _activate_search_mode(page, mcd_fld, mcd_icd10)
+            stage, mcd_used_open_fully = _activate_search_mode(page, mcd_fld, mcd_icd10)
             if verbose: print(f"[WONDER]   MCD codes set: {mcd_icd10}")
 
             # Re-apply O_mcd radio (navigation may have reset it)
@@ -501,7 +519,17 @@ def run_query(
             if mcd_drug_codes:
                 _apply_mcd_drug(page, ds, mcd_drug_codes)
 
-            # UCD ICD-10 with MCD present: inject via JS to avoid a second navigation
+            # For textarea-based (Search mode) datasets, re-inject MCD codes after
+            # base-filter re-application which may have reset the textarea.
+            # For Open Fully (codeset mode, D157), codes are in the SELECT and persist.
+            if not mcd_used_open_fully:
+                _set_icd10_via_js(page, mcd_fld, mcd_icd10)
+
+            # UCD ICD-10 with MCD present: inject via JS to avoid a second navigation.
+            # Note: this only works reliably for textarea-based datasets (D77). On
+            # Open Fully (codeset) datasets a second navigation would be needed to set
+            # UCD codes via the finder; for now we inject into the textarea and set
+            # stage='search' which may not work on all D157 configurations.
             if ucd_icd10:
                 if verbose: print(f"[WONDER]   UCD codes (codes={ucd_icd10!r})…")
                 page.evaluate(f"""() => {{
@@ -520,20 +548,34 @@ def run_query(
 
         # ── 4. UCD ICD-10 only (no MCD nav) ──────────
         elif needs_ucd_nav:
-            if verbose: print(f"[WONDER] UCD codes via Browse workflow (codes={ucd_icd10!r})…")
+            if verbose: print(f"[WONDER] UCD codes via finder workflow (codes={ucd_icd10!r})…")
             page.evaluate(f"""() => {{
                 const r = document.querySelector('input[name="O_ucd"][value="{ucd_fld}"]');
                 if (r) r.click();
             }}""")
             time.sleep(0.3)
-            # Use full Browse workflow for UCD as well
-            stage = _activate_search_mode(page, ucd_fld, ucd_icd10)
+            # Use Open/Open Fully (D157) or Search (D77) workflow depending on form.
+            stage, ucd_used_open_fully = _activate_search_mode(page, ucd_fld, ucd_icd10)
             if verbose: print(f"[WONDER]   UCD finder-stage={stage!r}, codes: {ucd_icd10}")
 
-            # Re-apply base filters in case Browse navigation reset them
+            # Re-apply O_ucd radio (navigation may have reset it)
+            page.evaluate(f"""() => {{
+                const r = document.querySelector('input[name="O_ucd"][value="{ucd_fld}"]');
+                if (r) r.click();
+            }}""")
+            time.sleep(0.3)
+
+            # Re-apply base filters in case navigation reset them
             _apply_base_filters(page, ds, group_by, demographic_filters)
             if mcd_drug_codes:
                 _apply_mcd_drug(page, ds, mcd_drug_codes)
+
+            # For textarea-based (Search mode, D77) datasets only: re-inject UCD codes
+            # via JS after base-filter re-application which may have reset the textarea.
+            # For Open Fully (codeset mode, D157), codes are in the SELECT and persist
+            # through base-filter re-application; no re-injection needed.
+            if not ucd_used_open_fully:
+                _set_icd10_via_js(page, ucd_fld, ucd_icd10)
 
         # ── 5. Set export options and submit ──────────────────────────────────
         if verbose: print("[WONDER] Submitting…")
@@ -555,7 +597,7 @@ def run_query(
         try:
             # Submit form and wait for download
             if verbose: print("[WONDER] Clicking submit and waiting for download...")
-            with page.expect_download(timeout=120_000) as dl_info:
+            with page.expect_download(timeout=600_000) as dl_info:
                 page.locator("#submit-button1").click()
 
             download = dl_info.value
