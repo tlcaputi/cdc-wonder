@@ -10,7 +10,7 @@ import importlib.resources
 import pandas as pd
 
 
-def load_opioid_deaths() -> pd.DataFrame:
+def load_opioid_deaths(drop_metadata: bool = True) -> pd.DataFrame:
     """Return opioid overdose deaths by state, sex, and year (2000–2023).
 
     This is a pre-downloaded snapshot and requires no network access.
@@ -21,6 +21,13 @@ def load_opioid_deaths() -> pd.DataFrame:
     CDC WONDER MCD (D77: 2000–2020) + MCD Expanded (D157: 2021–2023).
     UCD filter : drug overdose all intents (D1+D2+D3+D4).
     MCD filter : T40.0, T40.1, T40.2, T40.3, T40.4, T40.6 (opioids).
+
+    Parameters
+    ----------
+    drop_metadata : bool, default True
+        Drop rows that don't look like real state-year-sex observations
+        (year is missing or non-numeric, state is empty). Defends against
+        future re-exports that accidentally include CDC WONDER footer rows.
 
     Returns
     -------
@@ -54,5 +61,9 @@ def load_opioid_deaths() -> pd.DataFrame:
         rate_raw.where(~rate_raw.isin(["Unreliable", "Suppressed", "Not Applicable", ""])),
         errors="coerce"
     )
+
+    if drop_metadata:
+        keep = df["year"].notna() & df["state"].fillna("").ne("")
+        df = df.loc[keep]
 
     return df.reset_index(drop=True)
