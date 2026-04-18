@@ -6,26 +6,26 @@ Programmatic Python interface to the [CDC WONDER](https://wonder.cdc.gov/) Multi
 
 Works on **macOS**, **Linux**, and **Windows**. Requires Python 3.9+.
 
-### macOS / Linux
-
 ```bash
 pip install git+https://github.com/tlcaputi/cdc-wonder.git
 playwright install chromium
 ```
 
-### Windows (PowerShell)
+### Updating to the latest version
 
-```powershell
-pip install git+https://github.com/tlcaputi/cdc-wonder.git
-playwright install chromium
+This package is installed from GitHub, so `pip install --upgrade` alone won't pick up new commits. Use `--upgrade --force-reinstall` (or `--upgrade --no-deps` if you don't want to re-resolve dependencies):
+
+```bash
+pip install --upgrade --force-reinstall git+https://github.com/tlcaputi/cdc-wonder.git
 ```
 
-### Windows (Command Prompt)
+To check which version you have installed:
 
-```cmd
-pip install git+https://github.com/tlcaputi/cdc-wonder.git
-playwright install chromium
+```bash
+python -c "import cdc_wonder, importlib.metadata as m; print(m.version('cdc-wonder'))"
 ```
+
+### Linux system dependencies
 
 If `playwright install` fails on Linux, you may need system dependencies:
 

@@ -108,12 +108,25 @@ def _activate_search_mode(page, var_stem: str, codes: list[str]) -> tuple[str, b
     stage_name      = f"finder-stage-{var_stem}"
     open_name       = f"finder-action-{var_stem}-Open"
     open_fully_name = f"finder-action-{var_stem}-Open Fully"
+    search_name     = f"finder-action-{var_stem}-Search"
 
     has_open_fully = page.evaluate(
         f'() => !!document.querySelector(\'input[name="{open_fully_name}"]\')'
     )
+    has_search = page.evaluate(
+        f'() => !!document.querySelector(\'input[name="{search_name}"]\')'
+    )
 
-    if has_open_fully:
+    # MCD codeset BUG: both D77 and D157 now have Open Fully and Search buttons,
+    # but the server silently ignores codeset-mode selections for the MCD
+    # ICD-10 variable (D77.V13, D157.V13) when combined with UCD drug codes
+    # (or at all) — only the Search-button textarea path actually causes the
+    # MCD filter to be applied at submission.  UCD ICD-10 (D77.V2, D157.V2)
+    # still works correctly via the Open Fully codeset path.
+    is_mcd_icd = var_stem in ("D77.V13", "D157.V13")
+    prefer_search = is_mcd_icd and has_search
+
+    if has_open_fully and not prefer_search:
         # ── Open → select chapter range → Open Fully → select individual codes ─
         # D157 uses a hierarchical codeset browser. The correct workflow:
         #   1. Click Open: expands chapter-level ranges into F_{var_stem} SELECT.
@@ -153,17 +166,11 @@ def _activate_search_mode(page, var_stem: str, codes: list[str]) -> tuple[str, b
         return stage, True  # used_open_fully=True: codes in SELECT (codeset mode)
 
     else:
-        # ── No Open Fully (e.g. D77 / mcd): Search button → textarea injection ─
-        # D77 has a Search button (finder-action-D77.V13-Search) instead of Open.
-        # Clicking Search navigates to the search-mode form where V_{var_stem}
-        # (a textarea) is exposed.  We inject the codes there and set
-        # finder-stage='search'.  stage='codeset' with individual codes does NOT
-        # work on D77 — CDC WONDER ignores it and returns all-cause mortality.
-        search_name = f"finder-action-{var_stem}-Search"
-        has_search = page.evaluate(
-            f'() => !!document.querySelector(\'input[name="{search_name}"]\')'
-        )
-
+        # ── Search button path: D77 (both legacy "no Open Fully" forms AND
+        #    newer D77 forms where we force Search over Open Fully to avoid
+        #    the codeset-ignored bug).  Click Search → navigate to search-mode
+        #    form where V_{var_stem} (textarea) is exposed → inject codes and
+        #    set finder-stage='search'.
         if has_search:
             with page.expect_navigation(wait_until="domcontentloaded", timeout=30_000):
                 page.locator(f'input[name="{search_name}"]').click()
@@ -524,6 +531,25 @@ def run_query(
             # For Open Fully (codeset mode, D157), codes are in the SELECT and persist.
             if not mcd_used_open_fully:
                 _set_icd10_via_js(page, mcd_fld, mcd_icd10)
+
+            # CRITICAL: re-assert the full MCD state one more time immediately
+            # before submission.  Calls like `_apply_ucd_drug` click the O_ucd
+            # radio and can cause CDC WONDER to deactivate the O_mcd finder state,
+            # which silently drops the MCD filter at submission time.  We must
+            # re-click O_mcd, re-inject the textarea, AND re-set finder-stage.
+            if not mcd_used_open_fully:
+                code_str = "\n".join(mcd_icd10)
+                stage_name = f"finder-stage-{mcd_fld}"
+                textarea_name = f"V_{mcd_fld}"
+                page.evaluate(f"""() => {{
+                    const r = document.querySelector('input[name="O_mcd"][value="{mcd_fld}"]');
+                    if (r) r.click();
+                    const ta = document.querySelector('textarea[name="{textarea_name}"]');
+                    if (ta) ta.value = {code_str!r};
+                    const st = document.querySelector('[name="{stage_name}"]');
+                    if (st) st.value = 'search';
+                }}""")
+                time.sleep(0.2)
 
             # UCD ICD-10 with MCD present: inject via JS to avoid a second navigation.
             # Note: this only works reliably for textarea-based datasets (D77). On
