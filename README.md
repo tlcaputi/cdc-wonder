@@ -131,6 +131,10 @@ Returns a pandas DataFrame with:
 - `Crude Rate`, `Age-Adjusted Rate` (float64, NaN for unreliable/suppressed)
 - Group-by columns (`State`, `Year`, `Sex`, etc.)
 
+By default the returned frame contains only data rows. CDC WONDER's trailing
+metadata (`"---"` separators, `"Dataset: ..."`, `"Query Parameters:"`,
+`"Caveats:"`, etc.) is stripped. Pass `drop_metadata=False` to keep those rows.
+
 ## Platform Support
 
 Tested on macOS 15.5 (Apple Silicon) with Python 3.11. Should work on Linux

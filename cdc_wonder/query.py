@@ -128,6 +128,11 @@ class WonderQuery:
     show_suppressed : bool, default True
         Include rows where CDC suppressed the count (< 10 deaths).
 
+    drop_metadata : bool, default True
+        Drop CDC WONDER's trailing metadata rows (``"---"`` separators,
+        ``"Dataset: ..."``, ``"Query Parameters:"``, ``"Caveats:"``, etc.)
+        from the returned DataFrame. Set ``False`` to keep them.
+
     headless : bool, default True
         Run browser in headless mode. Set ``False`` to watch the automation.
 
@@ -190,6 +195,7 @@ class WonderQuery:
         mcd_drug_codes: list[str] | None = None,
         show_zeros: bool = True,
         show_suppressed: bool = True,
+        drop_metadata: bool = True,
         headless: bool = True,
         verbose: bool = False,
     ):
@@ -269,6 +275,7 @@ class WonderQuery:
 
         self._show_zeros = show_zeros
         self._show_suppressed = show_suppressed
+        self._drop_metadata = drop_metadata
         self._headless = headless
         self._verbose = verbose
 
@@ -319,7 +326,25 @@ class WonderQuery:
         # Safety validation: check if we got all-cause mortality when a filter was applied
         self._validate_not_all_cause(df)
 
+        if self._drop_metadata:
+            df = self._drop_metadata_rows(df)
+
         return df
+
+    @staticmethod
+    def _drop_metadata_rows(df: pd.DataFrame) -> pd.DataFrame:
+        """Drop CDC WONDER's trailing metadata rows.
+
+        CDC WONDER appends footer lines (``"---"`` separators, ``"Dataset: ..."``,
+        ``"Query Parameters:"``, ``"Caveats:"``, ``"Help:"``, etc.) after the data
+        section. The TSV parser passes these through as rows where the entire
+        line lands in the ``Notes`` column and all other columns are empty. Real
+        data rows have ``Notes == ""``.
+        """
+        if "Notes" not in df.columns:
+            return df
+        keep = df["Notes"].fillna("").astype(str).str.strip() == ""
+        return df.loc[keep].reset_index(drop=True)
 
     def _validate_not_all_cause(self, df: pd.DataFrame) -> None:
         """Validate that filtered query didn't return all-cause mortality.
